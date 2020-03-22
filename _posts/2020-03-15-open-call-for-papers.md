@@ -30,11 +30,20 @@ quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web 
 - [Telegram](https://t.me/joinchat/AMnGckKmsHQoslDUxJ3WkA)
 
 ##### Nuestras redes sociales
+- [Linkedin](https://www.linkedin.com/company/apiaddicts)
 - [Facebook](https://www.facebook.com/apiaddicts/)
 - [Twitter](https://twitter.com/apiaddicts)
 - [Youtube](https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos)
 - [Meetup Madrid](https://www.meetup.com/es-ES/preview/ApiAddicts)
 - [Meetup Barcelona](https://www.meetup.com/es-ES/preview/ApiAddictsBCN)
+- [Meetup Bogotá](https://www.meetup.com/es-ES/APIAddictsCO)
+- [Meetup México DF](https://www.meetup.com/es-ES/APIAddictsMX)
+- [Meetup Monterrey](https://www.meetup.com/es-ES/APIAddicts-Monterrey-MX/)
+- [Meetup Lima](https://www.meetup.com/es-ES/APIAddictsPE)
+- [Meetup Chile](https://www.meetup.com/es-ES/APIAddictsCH)
+- [Meetup Argentina](https://www.meetup.com/es-ES/APIAddictsAR)
+- [Meetup Miami](https://www.meetup.com/es-ES/APIAddictsUS)
+- [Meetup Castellón](https://www.meetup.com/es-ES/APIAddictsCAS)
 
 
 #### ¡Nos vemos el 23 de Junio! 😍😍
