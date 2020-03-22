@@ -44,8 +44,8 @@ c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20API%20Days%2
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/schedule/", text: "Agenda del 2019"}
+ - {permalink: "/speakers/", text: "Ponentes del 2019"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
@@ -56,14 +56,14 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "API Days Madrid <typeout> 2019"
-eventDate: "26 de Abril del 2019"
-typeoutTextValues: '"(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
+heroTitle: "API Addicts Day <typeout> 2020"
+eventDate: "23 de Junio del 2020"
+typeoutTextValues: '"(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)","(StartupYlasAPIs)"'
 typeoutFallback: "(Definición)"
 heroButtons:
  #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
- - {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
+ #- {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
 
 # About Block
 aboutTitle: "API Days Madrid"
@@ -117,8 +117,8 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
-twitterHashTag: "apiaddictsday2020"
-twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apiaddictsday2020"  
+twitterHashTag: "apiaddictsday20"
+twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apiaddictsday20"  
 
 # Partners Block
 organizersTitle: "Organizadores"
