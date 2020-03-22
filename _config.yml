@@ -110,7 +110,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Campus Madrid"
+venueTitle: "La Nave"
 venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el centro de Madrid"]
 
 # Tweets Feed Block
