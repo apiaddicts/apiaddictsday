@@ -9,11 +9,13 @@ authorLink: https://twitter.com/apiaddicts
 
 ##### Continuamos siguiendo...
 ¡Ahora sí! Ha llegado el momento. ¡El **API Addicts Day** ya está aquí!  
- 
-**Importante:** 🔥Acuérdate de traer tu entrada para poder acceder al track principal y/o a los talleres. 🔥  
 
-El acceso a Campus Madrid es limitado, por lo que te recomendamos ser puntual. De tal manera, si no vas a asistir al evento,
-te rogamos que canceles tu entrada para que otra persona la pueda aprovechar.  
+El 23 de Junio será el APIAddictsDay20, el evento más importante en España de APIs y el evento en español más importante del mundo.
+Si quieres participar como ponente, no te cortes y haz tu propuesta, tienes hasta el 25 de Marzo para poder realizarla.
+ 
+[HACER PROPUESTA](https://apiaddicts.us14.list-manage.com/track/click?u=963e438ae3d5b9c41be647503&id=a965cee17c&e=8ace005dc5)
+
+
 
 ##### Comparte la experiencia
 Vamos a estar compartiendo lo que pasa bajo el hashtag [#apiaddictsday20](https://twitter.com/search?q=%23apiaddicts20). Si 
@@ -23,7 +25,7 @@ quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web 
 
 ##### Enlaces de Interés
 - En twitter estaremos publicando con [#apiaddictsday20](https://twitter.com/search?q=%23apidaysmad17)
-- Ver la [Agenda](https://apiaddicts.github.io/apidaysmad17/schedule/)
+- Ver la [Agenda](https://apiaddictsday.apiaddicts.org/schedule/)
 - Campus Madrid: [Mapa](https://goo.gl/maps/bqu7SswoXW62)
 - [Telegram](https://t.me/joinchat/AMnGckKmsHQoslDUxJ3WkA)
 
@@ -34,5 +36,6 @@ quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web 
 - [Meetup Madrid](https://www.meetup.com/es-ES/preview/ApiAddicts)
 - [Meetup Barcelona](https://www.meetup.com/es-ES/preview/ApiAddictsBCN)
 
-#### ¡Nos vemos el 26 de Abril! 😍😍
+
+#### ¡Nos vemos el 23 de Junio! 😍😍
 

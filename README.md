@@ -7,7 +7,7 @@
 Project is built on top of [Jekyll](http://jekyllrb.com/)
 
 ### Live demo 
-[https://apiaddicts.github.io/apidaysmad17/](https://apiaddicts.github.io/apidaysmad17/)
+[https://apiaddictsday.apiaddicts.org/](https://apiaddictsday.apiaddicts.org/)
 
 ### Contributions welcome
 1. Clone the repo
