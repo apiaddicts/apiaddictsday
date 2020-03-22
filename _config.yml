@@ -185,7 +185,20 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://apiaddicts.org", text: "API Addicts"}
-   - {link: "https://www.meetup.com/es-ES/preview/ApiAddicts", text: "Grupo de Meetup"}
+   - {link: "https://www.linkedin.com/company/apiaddicts", text: "Linkedin"}
+   - {link: "https://www.facebook.com/apiaddicts/", text: "Facebook"}
+   - {link: "https://twitter.com/apiaddicts", text: "Twitter"}
+   - {link: "https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos", text: "Youtube"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddicts", text: "Grupo de Meetup Madrid"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsBCN", text: "Grupo de Meetup Barcelona"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsCO", text: "Grupo de Meetup Colombia"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsMX", text: "Grupo de Meetup México DF"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsMON", text: "Grupo de Meetup Monterrey"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsPE", text: "Grupo de Meetup Lima"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsCH", text: "Grupo de Meetup Chile"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsAR", text: "Grupo de Meetup Buenos Aires"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsUS", text: "Grupo de Meetup Miami"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsCAS", text: "Grupo de Meetup Castellón"}
  -
   title: "Contacto"
   links:
