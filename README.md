@@ -1,4 +1,4 @@
-# API Days Madrid # 17
+# API Addicts Day # 17
 
 # [![APIDaysMad17](img/sprites/organizer-logo.png)](https://github.com/apiaddicts/apidaysmad17)
 

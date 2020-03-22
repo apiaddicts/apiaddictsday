@@ -66,7 +66,7 @@ heroButtons:
  #- {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
 
 # About Block
-aboutTitle: "API Days Madrid"
+aboutTitle: "API Addicts Day"
 aboutBlock:
  - {title: "Conferencias", image: "conference.jpg", text: "Charlas diversas, por expertos de las APIs de empresas de todo el mundo!" }
  - {title: "Talleres", image: "workshop.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
