@@ -5,34 +5,39 @@
     - {title: "Estrategias y modelos de negocio", color: "#90be4e"}
   timeslots:
     - {
+        startTime: "16:15",
+        endTime: "16:30",
+        sessionIds: [001.1]
+    }
+    - {
         startTime: "16:30",
         endTime: "17:00",
-        sessionIds: [001]
+        sessionIds: [002.1]
     }
     - {
         startTime: "17:00",
         endTime: "17:30",
-        sessionIds: [002]
+        sessionIds: [003.1]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
-        sessionIds: [003]
+        sessionIds: [004.1]
     }
     - {
         startTime: "18:30",
         endTime: "19:00",
-        sessionIds: [004]
+        sessionIds: [005.1]
     }
     - {
         startTime: "19:00",
         endTime: "19:30",
-        sessionIds: [005]
+        sessionIds: [006.1]
     }
     - {
       startTime: "19:30",
       endTime: "19:45",
-      sessionIds: [006]
+      sessionIds: [007.1]
     }
 -
   date: "2020-10-14"
@@ -41,34 +46,39 @@
     - {title: "Arquitecturas", color: "#03a9f4"}
   timeslots:
     - {
-      startTime: "16:30",
-      endTime: "17:00",
-      sessionIds: [007]
+        startTime: "16:15",
+        endTime: "16:30",
+        sessionIds: [001.2]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [002.2]
     }
     - {
         startTime: "17:00",
         endTime: "17:30",
-        sessionIds: [008]
+        sessionIds: [003.2]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
-        sessionIds: [009]
+        sessionIds: [004.2]
     }
     - {
         startTime: "18:30",
         endTime: "19:00",
-        sessionIds: [010]
+        sessionIds: [005.2]
     }
     - {
         startTime: "19:00",
         endTime: "19:30",
-        sessionIds: [011]
+        sessionIds: [006.2]
     }
     - {
       startTime: "19:30",
       endTime: "19:45",
-      sessionIds: [012]
+      sessionIds: [007.2]
     }
 -
   date: "2020-10-15"
@@ -77,34 +87,39 @@
     - {title: "Seguridad", color: "#03a9f4"}
   timeslots:
     - {
-      startTime: "16:30",
-      endTime: "17:00",
-      sessionIds: [013]
+        startTime: "16:15",
+        endTime: "16:30",
+        sessionIds: [001.3]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [002.3]
     }
     - {
         startTime: "17:00",
         endTime: "17:30",
-        sessionIds: [014]
+        sessionIds: [003.3]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
-        sessionIds: [015]
+        sessionIds: [004.3]
     }
     - {
         startTime: "18:30",
         endTime: "19:00",
-        sessionIds: [016]
+        sessionIds: [005.3]
     }
     - {
         startTime: "19:00",
         endTime: "19:30",
-        sessionIds: [017]
+        sessionIds: [006.3]
     }
     - {
       startTime: "19:30",
       endTime: "19:45",
-      sessionIds: [018]
+      sessionIds: [007.3]
     }
     
 #-
