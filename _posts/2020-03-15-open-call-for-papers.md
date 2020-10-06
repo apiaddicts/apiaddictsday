@@ -7,7 +7,7 @@ author: API Addicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-##### Continuamos siguiendo...
+##### 
 ¡Ahora sí! Ha llegado el momento. ¡El **API Addicts Day** ya está aquí!  
 
 El 23 de Junio será el APIAddictsDay20, el evento más importante en España de APIs y el evento en español más importante del mundo.

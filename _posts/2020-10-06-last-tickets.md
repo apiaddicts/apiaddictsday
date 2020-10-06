@@ -7,8 +7,7 @@ author: API Addicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-##### Continuamos siguiendo...
-¡¡ Date prisa y compra ya tu entrada para el evento de APIs más importante en el mundo en Español !!
+##### ¡¡ Date prisa y compra ya tu entrada para el evento de APIs más importante en el mundo en Español !!
 
 
 ##### Comparte la experiencia

@@ -7,8 +7,7 @@ author: API Addicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-##### Continuamos siguiendo...
-Abierta ya las entradas para el evento. Compra a 5 euros hasta finales de Septiembre.
+##### Abierta ya las entradas para el evento. Compra a 5 euros hasta finales de Septiembre.
 
 
 ##### Comparte la experiencia

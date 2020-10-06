@@ -7,8 +7,7 @@ author: API Addicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-##### Continuamos siguiendo...
-Por motivos del Covid19 nos vemos obligados a cambiar la fecha del evento. Nueva fecha: 13,14 y 15 de Octubre.
+##### Por motivos del Covid19 nos vemos obligados a cambiar la fecha del evento. Nueva fecha: 13,14 y 15 de Octubre.
 
 
 ##### Comparte la experiencia
