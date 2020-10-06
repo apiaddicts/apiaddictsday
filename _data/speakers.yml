@@ -230,6 +230,16 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/chilcano/"}
-
+-
+  id: RG
+  name: "Ruth"
+  surname: "Gonzalez"
+  company: "BBVA Security Labs"
+  title: "Cybersecurity Researcher"
+  bio: "Graduada en Ingeniería en Tecnologías de Telecomunicación por la UPNA y doble Máster en Ingeniería de Telecomunicación e Ingeniería Telemática por la UC3M. Apasionada por las nuevas tecnologías, la seguridad y el cloud. Actualmente trabaja en el laboratorio de seguridad de BBVA Next Technologies investigando en nuevas tendencias de ciberseguridad y desarrollando aplicaciones y pruebas de concepto."
+  thumbnailUrl: rg.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ruthgonzaleznovillo/"}
 
     
