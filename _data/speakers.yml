@@ -123,3 +123,43 @@
     - {name: "site", link: "https://cloudappi.net"}
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
+-
+  id: AM
+  name: "Arturo"
+  surname: "Gonzalez Mack Dowell"
+  company: "Eurobits"
+  title: "Presidente y CEO de eurobits"
+  bio: "Transforming the way people and businesses interact with financial services. All my professional career has pivoted around the introduction to market of high-tech products and services for the financial sector. The evolution from technical roles to management, through project management and then sales and marketing, has allowed me to remain rooted in the basic foundations of the business.
+  I've had the opportunity to collaborate and work with fantastic professional s to help bring to the market innovative services like electronic payments, mobile banking, electronic invoicing and Account Information Services.
+  My main goal in life is to enjoy the ride, which is something there is plenty of in managing Eurobits.
+  One of the achievements I am most proud of is the first Account Information Service in Europe which we have been offering through Eurobits since 2.004.
+  Specialties: High tech startups, Internet, Innovation, account aggregation, electronic invoicing, Banking "
+  thumbnailUrl: ag.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arturo-gonzalez-mac-dowell/"}
+-
+  id: AD
+  name: "Alberto"
+  surname: "Díaz"
+  company: "Encamina"
+  title: "Presidente y CEO de eurobits"
+  bio: "A professional with 15 years of experience in the IT Industry, all of them working with Microsoft Technologies. His principal activities are Development and Solution Analysts on his first years and as Team Leader and Solution Architect on the last 6 years. Currently Chief Technology Innovation Officer in ENCAMINA, leading the Innovation Process, the Microsoft technology software development and member of the management board.  For the Spanish Community, he works as organizer and speaker in the most important Microsoft technologies conferences which he is one of the most important leaders. Author of several books and articles in professional magazine, from 2013 he began a new career as co-director of CompartiMOSS, a Microsoft technologies magazine.
+  Microsoft Regional Director from 2020 and Microsoft MVP since 2011. He defined himself as a innovation geek, smartphones lover and software solution developer. For the community, has founded TenerifeDev (www.tenerifedev.com) with other friends, a technical community in Tenerife, coordinator at SUGES (SharePoint Users Group on Spain, www.suges.es) and coordinator of CrossDvlup, a technology community around development in Spain "
+  thumbnailUrl: ad.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/albertodiazmartin/"}
+-
+  id: SH
+  name: "Sergio"
+  surname: "Hernández Mancebo"
+  company: "Encamina"
+  title: "Principal team leader"
+  bio: "Ingeniero Técnico en Informática de Gestión por la universidad Complutense de Madrid.
+Encargado como Principal Team Leader de liderar el equipo de Team Leader de Encamina, definir y mejorar la metodología de trabajo y supervisar el estado de los proyectos.
+Además amplia experiencia liderando proyectos desde el puesto de Team Leader, de desarrollo de proyectos software en entornos cloud de Microsoft en Azure y SharePoint 0365."
+  thumbnailUrl: sh.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
