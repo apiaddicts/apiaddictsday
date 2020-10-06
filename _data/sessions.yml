@@ -74,7 +74,7 @@
   title: "Mesa redonda"
   description: "Se debatirá sobre las distintas arquitecturas entorno a las APis, sobre el presente y futuro de las mismas"
   subtype: presentation
-  speakers: [OV,JRH,ND]
+  speakers: [OV,JRH,NM]
   complexity: "Intermediate"
 -
   id: 005.2

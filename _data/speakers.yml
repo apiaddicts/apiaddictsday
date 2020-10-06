@@ -68,7 +68,7 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/rub%C3%A9n-bajo/"}
 -
-  id: JR
+  id: JRH
   name: "Jose Ramon"
   surname: "Huerga Ayuso"
   company: "Everis"
@@ -163,3 +163,16 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
+-
+  id: VMC
+  name: "Víctor Manuel"
+  surname: "Calvo Martínez"
+  company: "Everis"
+  title: "Expert Architect en everis"
+  bio: "Más de 12 años de experiencia construyendo software, trabajando con múltiples tecnologías, cambiando entre ellas día a día y deseando no parar.
+  Ingeniero de Software de titulación y apasionado por la tecnología por naturaleza.
+  Mis últimos años han estado centrados en arquitecturas software, especialmente centradas en arquitecturas de integración, soluciones iPaaS, API Managament y Event-Driven. Centrado en la tecnología y gestionando equipos, tratando de sacar lo mejor de ellos y no parando de aprender. "
+  thumbnailUrl: sh.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jlebrato/"}
