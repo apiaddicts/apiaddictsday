@@ -1,6 +1,6 @@
-# API Addicts Day # 17
+# API Addicts Day # 20
 
-# [![APIDaysMad17](img/sprites/organizer-logo.png)](https://github.com/apiaddicts/apidaysmad17)
+# [![APIAddictsDay20](img/sprites/organizer-logo.png)](https://github.com/apiaddicts/apiaddictsday)
 
 ### About
 
