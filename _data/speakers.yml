@@ -176,3 +176,19 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jlebrato/"}
+-
+  id: AGL
+  name: "Alfredo"
+  surname: "García Lavilla"
+  company: "Orange"
+  title: "Arquitecto de soluciones en Orange Spain , Product Owner de la iniciativa OpenAPI"
+  bio: "Mis puntos fuertes: API evangelization, Cloud & Devops best practices, Ayudo a crear una cultura sólida  de desarrollo en Orange Spain.
+  He participado como ponente en Codemotion 2019 y CommitConf 2019. 
+  https://youtu.be/EGv203zyEB8
+  https://youtu.be/8FoLc1JCbDs
+  He trabajado con APIs y Arquitecturas basadas en Servicios durante los últimos 10 años, adoptando roles tan diversos como los de Desarrollador, Arquitecto, Tech Lead o Product Owner. Durante los últimos 5 años, he estado liderando la iniciativa de OpenAPIs dentro de Orange España, ayudando a establecer una arquitectura de desarrollo de APIs en entornos Cloud Native dentro de Kubernetes.
+  Antes de unirse a Orange, Alfredo trabajó como Arquitecto IT en sectores tan diversos como Banca, Energía & Utilities, Digital Media y Grandes Eventos."
+  thumbnailUrl: agl.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alfredo-garcia-lavilla/"}
