@@ -117,8 +117,8 @@ rockstarSpeakersButtonText: "Ver todos"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
-twitterHashTag: "apiaddictsday20"
-twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apiaddictsday20"  
+twitterHashTag: "apiaddictsdays20"
+twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apiaddictsdays20"  
 
 # Partners Block
 organizersTitle: "Organizadores"
