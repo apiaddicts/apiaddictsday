@@ -4,147 +4,150 @@
 # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 001
-  title: "Registro y Entrada"
-  description: "No llegues tarde si no te quieres perder nada"
-  service: true
--
-  id: 002
-  title: "The AsyncAPI specification"
-  description: "En esta charla, se explicará en qué consiste el estándar AsyncAPI y cómo está cambiando el mundo de las APIs dirigidas por eventos."
+  id: 001.1
+  title: "Iniciando en las estrategias y negocios entorno a las APis"
+  description: "No llegues tarde si no te quieres perder nada. Presentación de la sesión de estrategias y modelos de negocio entorno a las APIs"
   subtype: presentation
-  speakers: [1]
+  speakers: [MAS]
   complexity: "Intermediate"
 -
-  id: 003
-  title: "Rompe el monolito, evoluciona tu CMS usándolo como Headless con APIs"
-  description: "Los CMS han caído en el proceso de transformación digital y cambios de arquitecturas. Como una guillotina se está dividiendo el gestor de contenidos de la parte frontend. Ahora será más escalable, con mejor soporte y más veloz. Pero para poder conseguirlo, necesitaremos de nuestras amigas las APIs para poder pasar la información entre dichas capas. Pero, ¿qué contenido debemos incluir en dichas APIs? ¿en cada CMS se debemos tener en cuenta diferentes características?"
+  id: 002.1
+  title: "Apificando un Banco"
+  description: "En la charla se explicará la iniciativa de las APIs internas de BBVA, como se ha ido hacía un modelo global permitiendo de esta forma la generación de aplicaciones globales. El enfoque de comunidad inner source que seguimos, como trabajamos, como nos formamos etc... Pasando por el end to end de las APIs, desde su definición, implementación, generación de código, testing y despliegue en cloud con enfoque global."
   subtype: presentation
-  speakers: [2]
+  speakers: [AB]
   complexity: "Intermediate"
 -
-  id: 004
-  title: "Open Banking: la experiencia de BBVA"
-  description: "Lecciones aprendidas en la puesta en marcha de la estrategia de open banking en BBVA: developer center, ejemplos y posibilidades del uso de APIs abiertas"
+  id: 003.1
+  title: "El Retorno de los RESTafaris"
+  description: "Todas las empresas utilizan con orgullo el concepto transformación digital, pero pocas realmente tienen claro el impacto tan grande que tienen estas palabras dentro de sus corporaciones y desconocen por completo los malabarismos que han de realizar los gobiernos del cambio para poder hacer que todo esto sea una realidad. La Apificación de los sistemas es una de las patas de este proceso de digitalización. Muchas veces la palabra Apificar se utiliza gratuitamente como si no tuviera ningún coste, pero nada más lejos de la realidad, convivir con el legacy, intentar abstraer a las diferentes aplicaciones para que puedan tener una visión del todo o el gobierno del dato hacen que la tarea todavía se complique más. Si a todo esto, añadimos un pequeño grupo residual que pretende que todo esto se escriba en un mismo idioma que todos podamos entender, la cosa se puede complicar todavía más. Es esta charla explicaremos la aventuras y desventuras de este grupo de personas que pretenden llevar a cabo el gobierno de las  API’s en una gran empresa y como han ido abriéndose paso en ella. "
   subtype: presentation
-  speakers: [3]
+  speakers: [RG]
   complexity: "Intermediate"
 -
-  id: 005
-  title: "Café y pastas"
-  description: "Coge fuerza para seguir"
-  subtype: notes
--
-  id: 006
-  title: "No me toques esas APIs"
-  description: "Experiencia de haber montado en una empresa la gestión de API Management desde 0. Explicación del proceso realizado durante 3 años. Aciertos y desaciertos. Risas y lloros. Buenas prácticas aprendidas en el trayecto."
-  subtype: presentation
-  speakers: [4]
+  id: 004.1
+  title: "Mesa redonda"
+  description: "Estrategias y modelos de negocio entorno a las APIs"
+  subtype: "Mesa redonda"
+  speakers: [AD,MA,FF,FB]
   complexity: "Intermediate"
 -
-  id: 007
-  title: "API Managment sin API Managers"
-  description: "Se explicará como hacer API Management sin necesidad de utilizar API Managers"
+  id: 005.1
+  title: "Modelos de negocio"
+  description: "Ventajas de la Iniciación de pagos como medio de pago alternativo"
   subtype: presentation
-  speakers: [12]
+  speakers: [RB]
+-
+  id: 006.1
+  title: "SEPA API WG del ERPB"
+  description: ""
+  subtype: presentation
+  speakers: [AM]
   complexity: "Intermediate"
 -
-  id: 008
-  title: "Pausa comida"
-  place: "Vente a comer para reponer fuerzas "
-  service: true
-  description: "El mejor momento para hacer networking con los asistentes y con los ponentes"
--
-  id: 009
-  title: "GraphQL, gRPC o REST - ¿Quién gana ese partido?"
-  description: "El objetivo de esta conferencia es presentar la evolución de estos modelos, características, ventajas y desventajas, compartiendo experiencias de casos reales de Sensedia en proyectos de sus clientes como Natura, Elo credit card, Edenred, entre otras."
-  subtype: presentation
-  speakers: [6]
-  complexity: "Intermediate"
--
-  id: 010
-  title: "Lecciones aprendidas de la construcción de un API Gateware: que ganas y que pierdes en el camino"
-  description: "Tras la construcción de un completo sistema de gestión de API's y su correspondiente Gateway hay un conjunto de conclusiones sobre este proceso y su resultado que son de interés para cualquier que se enfrente ante el dilema de adoptar una solución de mercado o desarrollar desde cero (o sobre la base de algunas librerías) un sistema completo. Hay algunas ventajas e inconvenientes en cada opción y analizaremos una por una para poder dar un visión completa de en que consiste un sistema de estas características y los retos que tiene que afrontar."
-  subtype: presentation
-  speakers: [7]
-  complexity: "Intermediate"
-  presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
-
--
-  id: 011
-  title: "Viaje hacia la construcción de una plataforma de APIs abiertas"
-  description: "Una plataforma de APIs abiertas establece un nuevo paradigma dentro de una empresa: atrae innovación, permite establecer una visión clara de las necesidad de los cliente, y además, ayuda al posicionamiento tecnológico eliminando las barreras que antes existían.
-    Esta charla comparte la experiencia adquirida desde Amadeus a la hora de lanzar nuestra plataforma de APIs abiertas, Amadeus for Developers, desde su concepción hasta su lanzamiento final, pasando por las fases de implementación, testing y despliegue."
-  subtype: presentation
-  speakers: [8]
-  complexity: "Intermediate"
-
--
-  id: 012
+  id: 007.1
   title: "Clausura - sorteos"
   description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
   subtype: service
-
-
-
-## Talleres
 -
-  id: 013
-  title: "GraphQL - Taller de AWS App Sync"
-  description: "Taller explicando cómo crear APIs con AWS API Gateway + Lambda + DynamoDB y cómo construir sobre esa base una API GraphQL usando AWS App Sync"
-  subtype: workshop
-  speakers: [9]
-  complexity: "Intermediate"
-
--
-  id: 014
-  title: "Testing HTTP con Karate DSL"
-  description: "Introducción a Karate DSL, un framework para testing de servicios HTTP que combina gran potencia y versatilidad con una curva de aprendizaje súper asequible. 
-        Se dará una serie de  recursos para que al salir de la charla, tengáis una suite de pruebas Karate funcionando en minutos."
-  subtype: workshop
-  speakers: [10]
-  complexity: "Intermediate"
--
-  id: 015
-  title: "Café y pastas"
-  description: ""
-  subtype: service
-
--
-  id: 016
-  title: "De 0 a 100 con Webmethods"
-  description: "Taller práctico en el que se hará un tour de las funcionalidades que ofrece el producto y de manera práctica se enseñará como configurar diferentes politicas: transformación del mensaje, seguridad, control de throttling, enmascarado de datos, etc."
-  subtype: workshop
-  speakers: [11]
-  complexity: "Intermediate"
--
-  id: 017
-  title: "Observabilidad absoluta tus microservicios cómo si fueras el ojo de Sauron"
-  description: "Poder visualizar y monitorizar nuestro sistema como si fuese una caja blanca es fundamental. Mediante una monitorización de caja negra únicamente podremos saber si en determinadas circunstancias nuestra aplicación responde correctamente, pero no tendremos la foto global de lo que le sucede a todos los usuarios y tampoco podremos saber dónde exactamente pueden estar ocurriendo los errores.
-Veremos qué es Prometheus, cómo podemos instrumentar nuestras aplicaciones para tener absoluta observabilidad. Veremos cómo desplegar las aplicaciones en Istio y implementar el patrón RED definido en el SRE Handbook de Google (Requests, Errors, Delays) sin hacer nada en nuestra aplicación."
+  id: 001.2
+  title:  "Iniciando las arquitecturas entorno a las APis"
+  description: "No llegues tarde si no te quieres perder nada. Presentación de la sesión de estrategias y modelos de negocio entorno a las APIs"
   subtype: presentation
-  speakers: [5]
-  complexity: "Intermediate"
-
--
-  id: 018
-  title: "Pausa comida"
-  place: "Vente a comer para reponer fuerzas "
-  service: true
-  description: "El mejor momento para hacer networking con los asistentes y con los ponentes"
-
--
-  id: 019
-  title: "¿Quién dice que Java había muerto? Aprende a desarrollar microservicios en spring boot"
-  description: "Se desarrollará un microservicio en Spring boot que exponga una API Rest, utilizándo docker para ejecutarlo"
-  subtype: workshop
-  speakers: [13]
+  speakers: [MAS]
   complexity: "Intermediate"
 -
-  id: 020
-  title: "Taller de definición y testing de APIs"
-  description: "Se explicará como definir tu primera API utilizando Open API y exponerla en un API Manager y como testearla con lo que empieza a ser el nuevo estándar: postman + newman"
-  subtype: workshop
-  speakers: [14,15]
-  complexity: "Easy"
+  id: 002.2
+  title: "Arquitectura de APis serverless"
+  subtype: presentation
+  speakers: [AD,SM]
+  complexity: "Intermediate"
+-
+  id: 003.2
+  title: "Service Mesh, Kubernetes, Ingress, Envoy, Istio y otras aves raras"
+  description: "Dentro del universo kubernetes hay todo un ecosistema de piezas como Ingress, Envoy, Istio, etc. que acaban orbitando alrededor del enrutado y la seguridad de llamadas a endpoints. Merece la pena hablar de ellas ya que suelen ser grandes desconocidas para la mayor parte de las personas que trabajamos con APIs. Veremos quienes son y sobre todo, qué nos aportan."
+  subtype: presentation
+  speakers: [VMC]
+  complexity: "Intermediate"
+-
+  id: 004.2
+  title: "Mesa redonda"
+  description: "Se debatirá sobre las distintas arquitecturas entorno a las APis, sobre el presente y futuro de las mismas"
+  subtype: presentation
+  speakers: [OV,JRH,ND]
+  complexity: "Intermediate"
+-
+  id: 005.2
+  title: "Implementando una Arquitectura Híbrida de Microservicios"
+  description: "En Orange España hemos convertido las APIs en el principal motor de nuestro proceso de Digitalización. Para ellos nos hemos apoyado en la versatilidad que ofrecen las OpenAPI del mundo Telco (TMForum). Gracias a este estándar y a las posibilidades de Kubernetes para modelar microservicios, hemos conseguido industrializar nuestro proceso de construcción de APIs y con ello asegurar que los estándares y buenas prácticas se aplican a lo largo de nuestra organización.
+  Entre una de estas prácticas está la posibilidad de desplegar una arquitectura hibrida de microservicios, que nos permite ejecutar cargas en Kubernetes sin necesidad de hacer reingenierías complejas en nuestros servicios actuales. La charla la divido en dos partes: en la primera resumo nuestro modelo de desarrollo API First y explico la arquitectura de ejecución que utilizamos. En la segunda parte hago una demo de nuestro proceso automatizado de generación de APIs y si hay tiempo, se despliega el api en un entorno Cloud.
+  Esta sería la primera presentación de esta charla"
+  subtype: presentation
+  speakers: [AG]
+  complexity: "Intermediate"
+-
+  id: 006.2
+  title: "Arquitectura de APIs para Canales Digitales"
+  description: "En este contenido exploraremos cómo una arquitectura basada en API puede soportar estrategias para habilitar y modernizar canales digitales, productos y servicios, reflexionando sobre los principales desafíos y los diferentes niveles de madurez de las arquitecturas API diseñadas para este propósito."
+  subtype: presentation
+  speakers: [LF]
+  complexity: "Intermediate"
+-
+  id: 007.2
+  title: "Clausura - sorteos"
+  description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
+  subtype: service
+## Seguridad
+-
+  id: 001.3
+  title:  "Iniciando la seguridad entorno a las APis"
+  description: "No llegues tarde si no te quieres perder nada. Presentación de la sesión de seguridad de las APIs"
+  subtype: presentation
+  speakers: [MAS]
+  complexity: "Intermediate"
+-
+  id: 002.3
+  title: "Fallos de seguridad en las APIs: ¿por qué caen los más grandes ?"
+  description: "Cada día se descubren nuevas vulnerabilidades en las APIs. De Facebook a Starbucks pasando por Uber, muchos han caído. ¿Por qué? ¿Qué han hecho mal?
+  En esta sesión, haremos un repaso de los problemas más frecuentes basándonos en situaciones reales, y veremos como protegernos. Si no sabes lo que es OWASP, BOLA, Mass assignment o data leakage, ésta es tu sesión!
+  - ¿Por qué el OWASP Top 10 para APIs?
+  - ¿En qué y quién podemos confiar?
+  - ¿Qué nivel de autenticación necesito?
+  - ¿Qué nivel de autorización necesito?"
+  subtype: presentation
+  speakers: [IM]
+  complexity: "Intermediate"
+-
+  id: 003.3
+  title: "Un L4/L7 Gateway para proteger tu data."
+  description: "Los Data Gateways actúan igual que los API Gateways pero se orientan a los datos. Explicaré cómo implementar el Data Gateway, componente frecuentemente olvidado, para reforzar el acceso seguro a tus datos."
+  subtype: presentation
+  speakers: [RC]
+  complexity: "Intermediate"
+-
+  id: 004.3
+  title: "Mesa redonda de seguridad"
+  description: "Analizaremos las tendencias en seguridad"
+  subtype: presentation
+  speakers: [RG,IM,FJB]
+  complexity: "Intermediate"
+-
+  id: 005.3
+  title: "Swagger2postman"
+  description: "El testing es parte de la seguridad"
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 006.3
+  title: "Seguridad desde un punto de vista developer"
+  description: "Oauth2.0, JWT... principales conceptos de seguridad en las APis para que cualquier developer lo pueda entender"
+  subtype: presentation
+  speakers: [MAS]
+  complexity: "Intermediate"
+-
+  id: 007.3
+  title: "Clausura - sorteos"
+  description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
+  subtype: service
 
