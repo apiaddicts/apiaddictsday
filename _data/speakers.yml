@@ -203,3 +203,14 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucasferrari/"}
+-
+  id: IM
+  name: "Isabel"
+  surname: "Mauny"
+  company: "42Crunch"
+  title: "CTO"
+  bio: "42Crunch delivers a platform that allows enterprises to inject API security transparently and easily in the API lifecycle. Our tools rely on the OpenAPI specification to describe APIs and automatically enforce API security policies using a security as code approach. Use our tools along your CI/CD pipeline to evaluate the risks associated with your API, test your APIs for vulnerabilities and protect your APIs from attacks. From audit to protection in less than 5 minutes, that's our promise."
+  thumbnailUrl: im.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/isamauny/"}
