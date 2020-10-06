@@ -5,23 +5,23 @@
     - {title: "Estrategias y modelos de negocio", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "16:15",
-        endTime: "16:30",
-        sessionIds: [001.1]
-    }
-    - {
         startTime: "16:30",
         endTime: "17:00",
-        sessionIds: [002.1]
+        sessionIds: [001.1]
     }
     - {
         startTime: "17:00",
         endTime: "17:30",
-        sessionIds: [003.1]
+        sessionIds: [002.1]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
+        sessionIds: [003.1]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:30",
         sessionIds: [004.1]
     }
     - {
@@ -46,23 +46,23 @@
     - {title: "Arquitecturas", color: "#03a9f4"}
   timeslots:
     - {
-        startTime: "16:15",
-        endTime: "16:30",
-        sessionIds: [001.2]
-    }
-    - {
         startTime: "16:30",
         endTime: "17:00",
-        sessionIds: [002.2]
+        sessionIds: [001.2]
     }
     - {
         startTime: "17:00",
         endTime: "17:30",
-        sessionIds: [003.2]
+        sessionIds: [002.2]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
+        sessionIds: [003.2]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:30",
         sessionIds: [004.2]
     }
     - {
@@ -87,23 +87,23 @@
     - {title: "Seguridad", color: "#03a9f4"}
   timeslots:
     - {
-        startTime: "16:15",
-        endTime: "16:30",
-        sessionIds: [001.3]
-    }
-    - {
         startTime: "16:30",
         endTime: "17:00",
-        sessionIds: [002.3]
+        sessionIds: [001.3]
     }
     - {
         startTime: "17:00",
         endTime: "17:30",
-        sessionIds: [003.3]
+        sessionIds: [002.3]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
+        sessionIds: [003.3]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:30",
         sessionIds: [004.3]
     }
     - {
