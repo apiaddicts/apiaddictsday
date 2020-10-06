@@ -50,16 +50,16 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
+ - {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
+ - {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "API Addicts Day <typeout> 2020"
-eventDate: "23 de Junio del 2020"
-typeoutTextValues: '"(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)","(StartupYlasAPIs)"'
-typeoutFallback: "(Definición)"
+eventDate: "13,14 y 15 de Octubre del 2020"
+typeoutTextValues: '"(Estrategias y Modelos)", "(Arquitecturas)", "(Seguridad)"'
+typeoutFallback: "(Estrategias y Modelos)"
 heroButtons:
  #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
@@ -68,17 +68,17 @@ heroButtons:
 # About Block
 aboutTitle: "API Addicts Day"
 aboutBlock:
- - {title: "Conferencias", image: "conference.jpg", text: "Charlas diversas, por expertos de las APIs de empresas de todo el mundo!" }
- - {title: "Talleres", image: "workshop.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
- - {title: "Startups y las APIs", image: "workshop.jpg", text: "2 horas dónde las startups y las grandes empresas presentarán sus APIs y sus market places" }
+ - {title: "Estrategias y Modelos", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APis para tu organización" }
+ - {title: "Arquitectura", image: "workshop.jpg", text: "Nunca será más fácil entender las diferentes arquitecturas" }
+ - {title: "Seguridad", image: "workshop.jpg", text: "Securiza tu organización securizando las APIs" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "entradas", detail: ""}
- - {count: "10", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
- - {count: "15", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
- - {count: "2", specialCharacter: "", info: "tracks", detail: "Taller / Charla"}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
+ - {count: "20", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
+ - {count: "3", specialCharacter: "", info: "días", detail: "modelos/arquitectura/seguridad"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
@@ -90,20 +90,20 @@ rockstarSpeakersTitle: "Ponentes"
 rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
-locationBlockTitle: "Ubicación"
-eventLocationName: "La Nave"
-eventLocationLink: "https://www.lanavemadrid.com/"
-eventStreetAddress: "Calle Cifuentes, 5"
-eventAddressLocality: "Madrid"
-eventAddressLocalityRegion: "Madrid"
-eventPostalCode: "28021"
-eventAddressCountry: "España"
-eventStartTime: "2020-06-23T12:00"
-eventDoorTime: "10:00"
-eventEndTime: "2020-06-23T20:00"
-eventPlaceCoordinates: "40.3194127,-3.7010149"
-mapCenterCoordinates: "40.3194127,-3.7010149"
-mapMobileCenterCoordinates: "40.3194127,-3.7010149"
+#locationBlockTitle: "Ubicación"
+#eventLocationName: "La Nave"
+#eventLocationLink: "https://www.lanavemadrid.com/"
+#eventStreetAddress: "Calle Cifuentes, 5"
+#eventAddressLocality: "Madrid"
+#eventAddressLocalityRegion: "Madrid"
+#eventPostalCode: "28021"
+#eventAddressCountry: "España"
+#eventStartTime: "2020-06-23T12:00"
+#eventDoorTime: "10:00"
+#eventEndTime: "2020-06-23T20:00"
+#eventPlaceCoordinates: "40.3194127,-3.7010149"
+#mapCenterCoordinates: "40.3194127,-3.7010149"
+#mapMobileCenterCoordinates: "40.3194127,-3.7010149"
 
 # Venue Block
 venueBlockTitle: "Dónde"
