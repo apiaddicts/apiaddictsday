@@ -106,13 +106,13 @@ rockstarSpeakersButtonText: "Ver todos"
 #mapMobileCenterCoordinates: "40.3194127,-3.7010149"
 
 # Venue Block
-venueBlockTitle: "Dónde"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "La Nave"
-venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el centro de Madrid"]
+#venueBlockTitle: "Dónde"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle: "La Nave"
+#venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el centro de Madrid"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
