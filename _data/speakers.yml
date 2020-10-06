@@ -13,7 +13,6 @@
   social:
   #  - {name: "twitter", link: "https://twitter.com/toolsprods"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/anabuigues/"}
-
 - 
   id: RG
   name: "Rafael"
@@ -25,7 +24,6 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/rafagranados/"}
-
 - 
   id: AC
   name: "Alberto"
@@ -38,68 +36,39 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/davidramosleh/"}
 - 
-  id: 4
-  name: "Víctor"
-  surname: "Cuervo"
-  company: "SegurCaixa Adeslas"
-  title: "Head of Architecture"
-  bio: "I am a technology lover. I like learning about technology, to be daily updated, see how to apply them to a professional environment and teach this knowledge to people. Seeking complement the technical part with social and team management. Looking having high performance teams, competent and with a constant self-training. Mix of technical knowledge and a good team is essential to meet any challenge.
-    In the last 12 years I have been leading technical teams of different skills, in international and large projects. Always in the world of technology, software engineering and innovation. My career focuses on five points: software architecture, software engineering, methodologies, quality assurance and transformation projects.
-    One of my hobbies is programming. I try to find enough time (sleep time) to keep me in practice. I go to hackathons and meetups related to programming. I can say that programming relaxes me. I make public every program or code that I write in some of my websites. Línea de Código (http://lineadecodigo.com) is the most important of them. It helps to people who are starting with programming languages. This process of publish to the web has also led me to have as a hobby a study of topics like SEO, SEM and Web Analytics.
-    I am a lover of photography. I enjoy tasting wines. I practice soccer and running and I read about history.
-    I can not be doing nothing. I need do something every second of my time. The last second will not return."
-  thumbnailUrl: VictorCuervo.jpeg
+  id: MA
+  name: "Magno"
+  surname: "Alarcón"
+  company: "LeadGods"
+  title: "Consultor"
+  bio: "Poseo más de 10 años como gestor de proyectos digitales usando metodologías PMP/ Agile, experiencia en proyectos de e-commerce, apps, marketing y publicidad digital. Scrum Master Certified por Scrum Alliance, diplomado de gestión de proyectos bajo enfoque PMP, KMP (Kanban Management professional), diplomado en Marketing en la UPC, innovación y transformación digital. He dado charlas y mentoring a startups en modelos de negocio desarrollo de productos digitales. Asesor del Startup 'LeadGods' ganador de innovate Peru 2019"
+  thumbnailUrl: ma.jpeg
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/victorcuervo/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/magno-alarcon-48585723/"}
 -
-  id: 5
-  name: "Pablo"
-  surname: "Moncada Isla"
-  company: "Masmovil"
-  title: "Technical Lead @ MÁSMÓVIL & Google Developer Expert (Cloud)"
-  bio: ""
-  thumbnailUrl: PabloMoncada.jpeg
+  id: FB
+  name: "Francisco"
+  surname: "Benedito"
+  company: "Climatetrade"
+  title: "CEO "
+  bio: "Licenciado en Derecho por la Universidad CEU San Pablo de España, MBA en la Universidad CEU San Pablo de Nanterre y PDD en el IE Business School de España. Comencé mi primera empresa a la edad de 16 años, una librería online en España. He creado diferentes empresas en el ámbito de las energías renovables e Internet y tuve la oportunidad de trabajar en el campo de las fusiones y adquisiciones en la empresa familiar  y disfrutó de una de las edades más bellas de España en las transacciones. He estado trabajando como banquero en uno de los bancos tecnológicos líderes en el mundo por más de 15 años como Gerente Regional, enfocado en la gestión de patrimonio y tecnología. En 2017 lancé Climatecoin, lo que los medios llamaron el Bitcoin del Cambio Climático, como vehículo de financiación de la Plataforma Climatetrade, un marketplace, basado en blockchain,  para la compra venta de créditos de carbono y apoyo a proyectos sostenibles de todo el mundo.  Dado el carácter innovador y visionario, tanto de Climatecoin como de Climatetrade, he sido invitado por gobiernos, organizaciones y entidades de alto prestigio a dar conferencias y talleres alrededor del mundo para hablar de la importancia de la tecnología en el mayor reto que afronta la humanidad, la lucha contra el cambio climático. Gracias a todo esto y al reconocimiento de Naciones Unidas como la mejor solución para los mercados del carbono post 2020, Francisco Benedito ha sido nombrado recientemente como uno de los 100 mejores influenciadores mundiales de Fintech para los objetivos de desarrollo sostenible (SDG)."
+  thumbnailUrl: fb.png
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/pmoncadaisla/"}
-
 -
-  id: 6
-  name: "Rafael"
-  surname: "Rocha"
-  company: "Sensedia"
-  title: "Lead Solutions Architect"
-  bio: "Rafael Rocha es un experto en arquitectura y desarrollo de software con más de 18 años de experiencia. Hoy actúa como Lead Solutions Architect en Sensedia ayudando a las empresas a convertirse en Digital a través del uso de tecnologías de API y la implementación de arquitecturas robustas basadas en microservicios y cloud."
-  thumbnailUrl: RafaelRocha.jpeg
+  id: RB
+  name: "Rubén"
+  surname: "Bajo"
+  company: "Afterbanks"
+  title: "COO en Afterbanks"
+  bio: "Tengo más de 18 años de experiencia ejerciendo distintas labores a nivel estratégico, de operaciones y marketing online en modelos B2B, B2B2C, B2B2B y B2C. Desde hace cuatro años estoy muy involucrado en el sector Fintech, en lo referente a PSD2, Open Banking, y Transformación Digital. He dado varias charlas, formado parte de varios workshops y talleres gracias al recorrido profesional con el que cuento. Compartí mi discurso en los Finnovista Pitch Days: https://www.iebschool.com/blog/acude-primer-finnovista-pitch-day-madrid-finanzas/"
+  thumbnailUrl: rb.png
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rafaelprocha/"}
-
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rub%C3%A9n-bajo/"}
 -
-  id: 7
-  name: "Pablo"
-  surname: "Almunia"
-  company: "Corus consulting"
-  title: "Chairman & CEO"
-  bio: "He estudiado desde Filosofía, hasta Informática, pasando por Administración de Empresas, pero sin duda lo que me resulta más interesante es construir sistemas de información eficientes y que resuelvan problemas complejos. Tras una larga carrera profesional en distintos puestos de TI, ahora soy el director general de Corus Consulting, una dinámica multinacional española de consultoría TI, especializada en desarrollo, integración de sistemas y automatización de procesos."
-  thumbnailUrl: PabloAlmunia.jpeg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pabloalmunia/"}
-
--
-  id: 8
-  name: "Álvaro"
-  surname: "Navarro"
-  company: "Amadeus"
-  title: "Developer Advocate"
-  bio: "I'm that kind of people who writes Software just for fun. https://github.com/alnacle/"
-  thumbnailUrl: AlvaroNavarro.jpeg
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
-
--
-  id: 9
+  id: JR
   name: "Jose Ramon"
   surname: "Huerga Ayuso"
   company: "Everis"
@@ -110,22 +79,8 @@
   thumbnailUrl: JoseRamonHuerga.jpeg
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jrhuerga/"}
-
 -
-  id: 10
-  name: "Marta"
-  surname: "Arcones"
-  company: "Zooplus"
-  title: "software engineer"
-  bio: "Me llamo Marta Arcones y trabajo en Zooplus como ingeniera de software desde hace algunos años. En Zooplus tengo la oportunidad de dar salida a todas mis inquietudes en el software, y además de desarrollar APIs junto con mi equipo, tenemos muy en cuenta la automatización, las pruebas y el soporte que, una vez en producción, tendremos que darles. En mi tiempo libre me gusta leer y hacer senderismo."
-  thumbnailUrl: MartaArcones.png
-  rockstar: true
-  social:
-  # - {name: "linkedin", link: "https://www.linkedin.com/in/jaimemt"}
-  - {name: "github", link: "https://github.com/arcones"}
-  - {name: "stackoverflow", link: "https://es.stackoverflow.com/users/3654/arcones"}
--
-  id: 11
+  id: NM
   name: "Noelia"
   surname: "Martin Hernández"
   company: "Paradigma"
@@ -137,9 +92,8 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/noelia-mart%C3%ADn-hern%C3%A1ndez-9bb12960/"}
-
 -
-  id: 12
+  id: OV
   name: "Omar"
   surname: "del Valle"
   company: "Finect"
@@ -151,21 +105,8 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
-
 -
-  id: 13
-  name: "Rafael"
-  surname: "Goterris Perales"
-  company: "CloudAPPi"
-  title: "Director de Operaciones"
-  bio: "Arquitecto de soluciones especializado en el mundo JAVA, ha gestionado proyectos para clientes tan importantes como Pullmantur, Masmovil o Catenon."
-  thumbnailUrl: RGoterris.png
-  social:
-    - {name: "twitter", link: "https://twitter.com/rgoterris"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rafael-goterris-perales-3648161b/"}
-
--
-  id: 14
+  id: MAS
   name: "Marco Antonio"
   surname: "Sanz"
   company: "Cloudappi"
@@ -182,15 +123,3 @@
     - {name: "site", link: "https://cloudappi.net"}
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
--
-  id: 15
-  name: "David"
-  surname: "Marín del Pino"
-  company: "Cloudappi"
-  title: "API Evangelist"
-  bio: "APIEvangelist reconocido que ha trabajado en proyectos tan importantes como el gobierno de APIs de Pullmantur, Caser, AEGON, Masmovil o Madrid Digital"
-  thumbnailUrl: DavidMarin.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/d_marinp"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/david-mar%C3%ADn-del-pino-a1813b62/"}
