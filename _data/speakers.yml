@@ -214,3 +214,22 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/isamauny/"}
+-
+  id: RC
+  name: "Roger"
+  surname: "Carhuatocto"
+  company: "ECS"
+  title: "Senior Security Consultant"
+  bio: "Experienced Enterprise Architect & IT Security Specialist:
+  * Security in Distributed Systems (SOA, Microservices, APIs & Service Mesh).
+  * Cloud Security, Container and Kubernetes Security.
+  * Security Automation and DevSecOps.
+  * Cryptography and PKI.
+  * Big Data and Security. "
+  thumbnailUrl: rc.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chilcano/"}
+
+
+    
