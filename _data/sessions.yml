@@ -29,7 +29,7 @@
   title: "Mesa redonda"
   description: "Estrategias y modelos de negocio entorno a las APIs"
   subtype: "Mesa redonda"
-  speakers: [AD,MA,FF,FB]
+  speakers: [AC,MA,FF,FB]
   complexity: "Intermediate"
 -
   id: 005.1
@@ -60,7 +60,7 @@
   id: 002.2
   title: "Arquitectura de APis serverless"
   subtype: presentation
-  speakers: [AD,SM]
+  speakers: [AD,SH]
   complexity: "Intermediate"
 -
   id: 003.2
@@ -83,7 +83,7 @@
   Entre una de estas prácticas está la posibilidad de desplegar una arquitectura hibrida de microservicios, que nos permite ejecutar cargas en Kubernetes sin necesidad de hacer reingenierías complejas en nuestros servicios actuales. La charla la divido en dos partes: en la primera resumo nuestro modelo de desarrollo API First y explico la arquitectura de ejecución que utilizamos. En la segunda parte hago una demo de nuestro proceso automatizado de generación de APIs y si hay tiempo, se despliega el api en un entorno Cloud.
   Esta sería la primera presentación de esta charla"
   subtype: presentation
-  speakers: [AG]
+  speakers: [AGL]
   complexity: "Intermediate"
 -
   id: 006.2
