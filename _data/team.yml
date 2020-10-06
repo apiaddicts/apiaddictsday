@@ -1,5 +1,5 @@
 -
-  id: 1
+  id: MAS
   name: "Marco Antonio"
   surname: "Sanz Molina Prados"
   title: "CEO en Cloudappi, CTO en Waima Technologies,  coordinador en APIAddicts"
@@ -10,7 +10,7 @@
     - {name: "github", link: "https://github.com/MarAntonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
 -
-  id: 2
+  id: OV
   name: "Omar"
   surname: "del Valle"
   title: "API Management design en Finect"
@@ -20,7 +20,7 @@
     - {name: "twitter", link: "https://twitter.com/omarvr72"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
 -
-  id: 3
+  id: NM
   name: "Noelia"
   surname: "Martín"
   title: "Consultora API Management"
@@ -28,3 +28,14 @@
   team: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/noelia-mart%C3%ADn-hern%C3%A1ndez-9bb12960/"}
+-
+  id: IM
+  name: "Isabel"
+  surname: "Mauny"
+  company: "42Crunch"
+  title: "CTO"
+  bio: "42Crunch delivers a platform that allows enterprises to inject API security transparently and easily in the API lifecycle. Our tools rely on the OpenAPI specification to describe APIs and automatically enforce API security policies using a security as code approach. Use our tools along your CI/CD pipeline to evaluate the risks associated with your API, test your APIs for vulnerabilities and protect your APIs from attacks. From audit to protection in less than 5 minutes, that's our promise."
+  thumbnailUrl: im.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/isamauny/"}
