@@ -241,5 +241,14 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/ruthgonzaleznovillo/"}
-
-    
+-
+  id: JL
+  name: "Javier"
+  surname: "Larrauri Cámara"
+  company: "Madrid Digital"
+  title: "Cybersecurity Researcher"
+  bio: "Dentro del grupo de arquitectura de Madrid Digital, he liderado diferentes iniciativas con el fin de ayudar a los demás equipos a desarrollar las APis de una forma correcta."
+  thumbnailUrl: jl.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/javierlarrauri/"}
