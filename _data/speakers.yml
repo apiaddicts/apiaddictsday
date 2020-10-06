@@ -2,51 +2,38 @@
 #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
 
 -
-  id: 1
-  name: "Fran"
-  surname: "Méndez Vilas"
-  company: "Founder"
-  title: "AsyncAPI Initiative"
-  bio: "I was born on 1983 in Bern (Switzerland) but grew up in Badajoz, Spain. I started to have interest about programming and new technologies at the age of 11, and always wanted to be an engineer.
-        During the last 3 years, I've been working and investigating Microservices architectures and API design. Especially on event-driven solutions and patterns.
-        I love to talk in conferences, to swim and to get lost in the mountain. Cats & Beers lover, not necessarily together :=)"
-  thumbnailUrl: FranMendez.jpeg
+  id: AB
+  name: "Ana"
+  surname: "Buigues Grimalt"
+  company: "BBVA"
+  title: "Global Head of APIs | Product Owner| Change Agent | Human Leader"
+  bio: "Trabajo en BBVA Next Technologies desde hace 4 años para BBVA dando forma a la iniciativa de APIs internas del banco. Mi experiencia dando charlas, talleres a nivel compañía es extensa contando a diferentes stakeholders (negocio, developers, directivos etc..) la estrategia de las APIs en BBVA."
+  thumbnailUrl: ab.jpg
   rockstar: true
   social:
   #  - {name: "twitter", link: "https://twitter.com/toolsprods"}
-    - {name: "linkedin", link: "https://linkedin.com/in/fmvilas"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anabuigues/"}
 
 - 
-  id: 2
-  name: "Jesús"
-  surname: "Cuesta Arza"
-  company: "atSistemas"
-  title: "Tech Lead Architect"
-  bio: 'Apasionado de las nuevas tecnologías, el análisis de tendencias y su predicción, el marketing y las personas. Actualmente trabajo de Líder Técnico para AT Sistemas realizando preventas, definiendo arquitecturas y proyectos, gestionando y desarrollando.
-    Además colaboro en diferentes comunidades como Openexpo, Desarrolladores Cloud, Smart Devices y HackathonLovers.'
-  thumbnailUrl: JesusCuesta.jpeg
+  id: RG
+  name: "Rafael"
+  surname: "Granados"
+  company: "Silk"
+  title: "Digital Transformer | API Product Owner SILK (Servicios Informáticos La Caixa)  "
+  bio: ''
+  thumbnailUrl: rg.jpeg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jesuscuesta/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafagranados/"}
 
 - 
-  id: 3
-  name: "David"
-  surname: "Ramos Lehnhoff"
-  company: "BBVA"
-  title: "CTO BBVA API_Market @BBVA New Digital Businesses"
-  bio: "David es el CTO de BBVA API_Market (www.bbvaapimarket.com) una iniciativa líder a nivel
-  mundial en lo que a open banking se refiere. BBVA API_Market es un recurso clave de BBVA a
-  la hora de permitir colaboraciones estratégicas con otras empresas, desde startups hasta
-  grandes corporaciones.
-  La andadura de David en el mundo del open banking comenzó en Estados Unidos en el año
-  2015 de la mano de BBVA Compass y su iniciativa Open Platform.
-  Ingeniero de Software y apasionado de las metodologías Ágiles con experiencia como líder
-  técnico de aplicaciones web y APIs para diferentes sectores como banca (BBVA),
-  telecomunicaciones (Vodafone), seguridad (Prosegur), automoción (BMW), administración
-  pública entre otros.
-  Uno de sus hobbies preferidos debido en parte a sus raíces germanas es el hockey sobre hielo."
-  thumbnailUrl: DavidRamos.jpeg
+  id: AC
+  name: "Alberto"
+  surname: "Caro"
+  company: "Pullmantur"
+  title: "Responsable de desarrollo"
+  bio: "Más de 20 años liderando proyectos en el sector turístico"
+  thumbnailUrl: ac.jpeg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/davidramosleh/"}
