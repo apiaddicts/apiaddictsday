@@ -8,7 +8,7 @@ markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "API Addicts Day 2020"
+title: "API Addicts Days 2020"
 email: "contacta@apiaddicts.org"
 description: "El evento de APIs en Español más importante del mundo"
 #baseurl: "/apidaysmad"
@@ -66,7 +66,7 @@ heroButtons:
  #- {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
 
 # About Block
-aboutTitle: "API Addicts Day"
+aboutTitle: "API Addicts Days"
 aboutBlock:
  - {title: "Estrategias y Modelos", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APis para tu organización" }
  - {title: "Arquitectura", image: "meetup.jpg", text: "Nunca será más fácil entender las diferentes arquitecturas" }

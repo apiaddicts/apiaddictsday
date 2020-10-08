@@ -129,7 +129,7 @@
   title: "Mesa redonda de seguridad"
   description: "Analizaremos las tendencias en seguridad"
   subtype: presentation
-  speakers: [RGN,IM,RC]
+  speakers: [RGN,IM,FJB]
   complexity: "Intermediate"
 -
   id: 005.3
