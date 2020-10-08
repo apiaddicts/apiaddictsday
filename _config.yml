@@ -69,8 +69,8 @@ heroButtons:
 aboutTitle: "API Addicts Day"
 aboutBlock:
  - {title: "Estrategias y Modelos", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APis para tu organización" }
- - {title: "Arquitectura", image: "workshop.jpg", text: "Nunca será más fácil entender las diferentes arquitecturas" }
- - {title: "Seguridad", image: "workshop.jpg", text: "Securiza tu organización securizando las APIs" }
+ - {title: "Arquitectura", image: "meetup.jpg", text: "Nunca será más fácil entender las diferentes arquitecturas" }
+ - {title: "Seguridad", image: "premio.jpg", text: "Securiza tu organización securizando las APIs" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
