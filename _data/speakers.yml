@@ -39,7 +39,9 @@
   surname: "Alarcón"
   company: "LeadGods"
   title: "Consultor"
-  bio: "Poseo más de 10 años como gestor de proyectos digitales usando metodologías PMP/ Agile, experiencia en proyectos de e-commerce, apps, marketing y publicidad digital. Scrum Master Certified por Scrum Alliance, diplomado de gestión de proyectos bajo enfoque PMP, KMP (Kanban Management professional), diplomado en Marketing en la UPC, innovación y transformación digital. He dado charlas y mentoring a startups en modelos de negocio desarrollo de productos digitales. Asesor del Startup 'LeadGods' ganador de innovate Peru 2019"
+  bio: "Ingeniero de sistemas con más de 10 años en gestión de proyectos digitales, proyectos e-commerce y apps. Experiencia en marketing y publicidad digital y tecnología bajo software libre.
+ Scrum Master Certified por Scrum Alliance, diplomado PMP, KMP (Kanban), diplomado en Marketing, innovación y transformación digital.
+Brindo charlas y mentoring a startups en modelos de negocio y desarrollo de productos digitales. Asesor del Startup "LeadGods" ganador de innovate Peru 2019. También soy empresario :D"
   thumbnailUrl: ma.jpeg
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/magno-alarcon-48585723/"}
@@ -268,7 +270,7 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   company: " Instituto Tecnológico de Informática"
   title: "Software Architect & Security Advocate"
   bio: "Arquitecto de Software y Security Advocate en el Instituto Tecnológico de Informática (ITI), con más de 10 años de experiencia en diseño e implementación de software en empresas de diferentes sectores. Francisco tiene una amplia experiencia en ecosistemas Java, Angular, Kubernetes y el stack tecnológico Big Data (Cassandra, Kafka, Spark, etc.), de hecho, ha impartido más de 60 cursos y charlas sobre estos temas en los últimos 8 años. Recientemente, Francisco está desarrollando su carrera profesional en el mundo de la seguridad informática, intentando aumentar el nivel de seguridad del software que producen las empresas, liderando técnicamente proyectos de investigación nacionales y europeos, centrados en la seguridad de los nuevos entornos cloud y la detección de amenazas e insiders usando técnicas de Inteligencia Artificial y Machine Learning. Siempre disponible para charrar en twitter como @DogDeveloper."
-  thumbnailUrl: FJB.jpg
+  thumbnailUrl: FJB.png
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/fjbarrena/"}
