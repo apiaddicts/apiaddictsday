@@ -8,7 +8,7 @@ markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "APIAddicts Days 2021"
+title: "APIAddicts Day 2021"
 email: "contacta@apiaddicts.org"
 description: "El evento de APIs en Español más importante del mundo"
 #baseurl: "/apidaysmad"
