@@ -39,7 +39,6 @@ socialImageSrcLinkedin: "/img/seo/sharing-linkedin.jpeg"
 c4pUrl: "https://forms.gle/zSWfG7xLY4MdVRW27"
 c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20APIAddicts%20Days"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
