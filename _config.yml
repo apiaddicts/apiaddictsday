@@ -32,7 +32,7 @@ metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, .NET, meetup, dev
 twitterAccount: "@apiaddicts"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.jpeg"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.jpeg"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 socialImageSrcLinkedin: "/img/seo/sharing-linkedin.jpeg"
 
 # Documents
@@ -45,8 +45,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/schedule/", text: "Agenda"}
  #- {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/blog/", text: "Blog"}
+  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -55,7 +55,7 @@ rightNavigationButtons:
  #- {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
 
 # Hero Block
-heroImage: "apidaysbackground.jpeg"
+heroImage: "hero.jpg"
 heroTitle: "APIAddicts Days <typeout>"
 eventDate: "Octubre de 2021"
 typeoutTextValues: '"(Tecnología)", "(Negocio)", "(Innovación)"'
