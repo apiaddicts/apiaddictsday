@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abrimos el C4P para Speakers"
+title:  "¡¡Abrimos el C4P para Speakers!!"
 date:   2021-07-22 12:12:03
 isStaticPost: false
 author: Marco A. Sanz de APIAddicts
@@ -15,7 +15,7 @@ Haz tu propuesta antes del 16 de Septiembre.
 
 ¡Te esperamos, APIAddict!.
 
-[<b>¡Quiero ser Speaker!</b>](https://forms.gle/zSWfG7xLY4MdVRW27)
+##### [<b>¡Quiero ser Speaker!</b>](https://forms.gle/zSWfG7xLY4MdVRW27)</br>
 
 
 ##### Comparte la experiencia
