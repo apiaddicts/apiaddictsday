@@ -55,8 +55,8 @@ rightNavigationButtons:
  #- {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "APIAddicts Days <typeout> 2021"
+heroImage: "apidaysbackground.jpeg"
+heroTitle: "APIAddicts Days <typeout>"
 eventDate: "Octubre del 2021"
 typeoutTextValues: '"(Innovación)", "(Tecnología)", "(Negocio)"'
 typeoutFallback: "(Estrategias y Modelos)"
