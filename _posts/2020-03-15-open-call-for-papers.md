@@ -1,13 +1,20 @@
 ---
 layout: post
-title:  "Últimas entradas"
-date:   2020-10-06 22:30:00
+title:  "Ya está abierto el Call For Papers"
+date:   2020-03-15 22:30:00
 isStaticPost: false
 author: API Addicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-##### ¡¡ Date prisa y compra ya tu entrada para el evento de APIs más importante en el mundo en Español !!
+##### 
+¡Ahora sí! Ha llegado el momento. ¡El **API Addicts Day** ya está aquí!  
+
+El 23 de Junio será el APIAddictsDay20, el evento más importante en España de APIs y el evento en español más importante del mundo.
+Si quieres participar como ponente, no te cortes y haz tu propuesta, tienes hasta el 25 de Marzo para poder realizarla.
+ 
+[HACER PROPUESTA](https://apiaddicts.us14.list-manage.com/track/click?u=963e438ae3d5b9c41be647503&id=a965cee17c&e=8ace005dc5)
+
 
 
 ##### Comparte la experiencia
@@ -39,5 +46,5 @@ quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web 
 - [Meetup Castellón](https://www.meetup.com/es-ES/APIAddictsCAS)
 
 
-#### ¡Nos vemos el 13,14 y 15 de Octubre! 😍😍
+#### ¡Nos vemos el 23 de Junio! 😍😍
 

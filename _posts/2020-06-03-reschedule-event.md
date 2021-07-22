@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Últimas entradas"
-date:   2020-10-06 22:30:00
+title:  "Cambiada la fecha del evento"
+date:   2020-06-03 22:30:00
 isStaticPost: false
 author: API Addicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-##### ¡¡ Date prisa y compra ya tu entrada para el evento de APIs más importante en el mundo en Español !!
+##### Por motivos del Covid19 nos vemos obligados a cambiar la fecha del evento. Nueva fecha: 13,14 y 15 de Octubre.
 
 
 ##### Comparte la experiencia

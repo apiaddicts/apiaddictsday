@@ -1,6 +1,6 @@
 # Plugins
 gems:
- - jekyll-sitemap
+- jekyll-sitemap
 safe: false
 
 # Build Settings
@@ -8,7 +8,7 @@ markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "APIAddictsDay21"
+title: "API Addicts Days 2020"
 email: "contacta@apiaddicts.org"
 description: "El evento de APIs en Español más importante del mundo"
 #baseurl: "/apidaysmad"
@@ -20,8 +20,8 @@ googleAnalyticsSiteUrl: "apiaddictsday.apiaddicts.org"
 siteVerification: "8syDqXyPBXLeDN4OObptLtn2xyRCTBo-W9lLWhkoW_A"
 
 # Organizer Info
-organizerName: "APIAddicts"
-organizerAlternateName: "APIAddicts"
+organizerName: "API Addicts"
+organizerAlternateName: "API Addicts"
 organizerDescription: "Comunidad abierta en la que tratamos con pasión todos los aspectos de una API con un enfoque 360º"
 organizerEmail: "contacta@apiaddicts.org"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -36,58 +36,58 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.jpeg"
 socialImageSrcLinkedin: "/img/seo/sharing-linkedin.jpeg"
 
 # Documents
-c4pUrl: "https://forms.gle/ZXT1ecmzqy5f4JBm9""
+c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
 c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20API%20Days%20Madrid"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/schedule/", text: "Agenda"}
- #- {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-# - {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
+ - {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
 rightNavigationButtons:
-# - {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
+ - {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "APIAddictsDay <typeout> 2021"
-eventDate: "Octubre del 2021"
-typeoutTextValues: '"(Innovación)", "(Tecnología)", "(Negocio)"' 
+heroTitle: "API Addicts Day <typeout> 2020"
+eventDate: "13,14 y 15 de Octubre del 2020"
+typeoutTextValues: '"(Estrategias y Modelos)", "(Arquitecturas)", "(Seguridad)"'
 typeoutFallback: "(Estrategias y Modelos)"
 heroButtons:
-- {link: "https://forms.gle/ZXT1ecmzqy5f4JBm9", text: "Enviar propuesta"}
+ #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
  #- {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
 
 # About Block
-aboutTitle: "APIAddictsDay21"
+aboutTitle: "API Addicts Days"
 aboutBlock:
- - {title: "El mayor evento de APIs en España y LATAM", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APIs para tu organización" }
- - {title: "Tecnologías aplicadas a las APIs", image: "meetup.jpg", text: "Conoce de primera mano los métodos de las nuevas tecnologías aplicadas a las APIs" }
- - {title: "Gobiernos de APIs", image: "premio.jpg", text: "Descubre de primera mano cuales son los éxitos y fracasos construyendo gobiernos de APIs" }
+ - {title: "Estrategias y Modelos", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APis para tu organización" }
+ - {title: "Arquitectura", image: "meetup.jpg", text: "Nunca será más fácil entender las diferentes arquitecturas" }
+ - {title: "Seguridad", image: "premio.jpg", text: "Securiza tu organización securizando las APIs" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "entradas", detail: "¡No te quedes sin la tuya!"}
- - {count: "6", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
- - {count: "10", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
- - {count: "1", specialCharacter: "", info: "día", detail: "hablando de APIs"}
+ - {count: "300", specialCharacter: "+", info: "entradas", detail: ""}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
+ - {count: "20", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
+ - {count: "3", specialCharacter: "", info: "días", detail: "modelos/arquitectura/seguridad"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 4
-#rockstarSpeakersTitle: "Ponentes"
-#rockstarSpeakersButtonText: "Ver todos"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Ponentes"
+rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 #locationBlockTitle: "Ubicación"
@@ -117,8 +117,8 @@ latestNewsTitle: "Últimas noticias"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
-twitterHashTag: "apiaddictsdays21"
-twitterFeed: "https://twitter.com/hashtag/APIAddictsDays21?src=hashtag_click"  
+twitterHashTag: "apiaddictsdays20"
+twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apiaddictsdays20"  
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -221,10 +221,11 @@ teamBlockTitle: "Sobre Nosotros"
 aboutUs: "En los últimos años, las APIs se han convertido en una forma revolucionaria de negocio para las empresas.
   El número de innovaciones tecnológicas y de industrias que están creciendo gracias al poder de las APIs es enorme.
   Cada vez se abren más puertas de negocio gracias a las APIs. <br>
-  Por eso en <a href=\"https://apiaddicts.org/\" target=\"_blank\">API Addicts</a> nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
+  Por eso en API Addicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
   formatos. Somos amantes y expertos de las APIs. Así fue como creamos el grupo, por el interés de crear una comunidad abierta
-  en la cual todos puedan participar y aprender acerca de las APIs. Actualmente somos el mayor grupo hispano hablante a nivel nacional, y pronto lo seremos a nivel mundial.<br>
-  Si no nos conoces, puedes saber más sobre nosotros y ver lo que hacemos en <a href=\"https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ\" target=\"_blank\">nuestro canal de youtube</a> o en <a href=\"https://www.linkedin.com/company/apiaddicts/\" target=\"_blank\">nuestras redes sociales</a>. <br> ¡Te esperamos APIAddict!<br> <br>"
+  en la cual todos puedan participar y aprender acerca de las APIs. <br>
+  Actualmente somos el mayor grupo hispano hablante a nivel nacional, y pronto lo seremos a nivel mundial.
+  Si no nos conoces, puedes saber más sobre nosotros en nuestro y ver lo que hacemos en nuestro canal de youtube"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

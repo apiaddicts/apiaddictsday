@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Últimas entradas"
-date:   2020-10-06 22:30:00
+title:  "Cambiada la fecha del evento"
+date:   2020-06-03 22:30:00
 isStaticPost: false
 author: API Addicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-##### ¡¡ Date prisa y compra ya tu entrada para el evento de APIs más importante en el mundo en Español !!
+##### Abierta ya las entradas para el evento. Compra a 5 euros hasta finales de Septiembre.
 
 
 ##### Comparte la experiencia
