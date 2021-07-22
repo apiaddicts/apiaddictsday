@@ -37,7 +37,7 @@ socialImageSrcLinkedin: "/img/seo/sharing-linkedin.jpeg"
 
 # Documents
 c4pUrl: "https://forms.gle/zSWfG7xLY4MdVRW27"
-c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20API%20Days%20Madrid"
+c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20APIAddicts%20Days"
 
 
 # Navigation
@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "APIAddicts Day <typeout>"
+heroTitle: "APIAddicts Days <typeout>"
 eventDate: "Octubre del 2021"
 typeoutTextValues: '"(Innovación)", "(Tecnología)", "(Negocio)"'
 typeoutFallback: "(Estrategias y Modelos)"
@@ -66,7 +66,7 @@ heroButtons:
  #- {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
 
 # About Block
-aboutTitle: "APIAddicts Day"
+aboutTitle: "APIAddicts Days"
 aboutBlock:
  - {title: "El mayor evento de APIExperts", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APIs para tu organización" }
  - {title: "Tecnologías aplicadas a las APIs", image: "meetup.jpg", text: "Conoce de primera mano los métodos de las nuevas tecnologías aplicadas a las APIs" }
@@ -118,7 +118,7 @@ latestNewsTitle: "Últimas noticias"
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
 twitterHashTag: "apiaddictsdays21"
-twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apiaddictsdays20"  
+twitterFeed: "https://twitter.com/search?q=%23apiaddictsdays21&src=typeahead_click"  
 
 # Partners Block
 organizersTitle: "Organizadores"
