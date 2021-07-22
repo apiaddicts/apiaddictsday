@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cambiada la fecha del evento"
-date:   2020-06-03 22:30:00
+date:   2021-06-03 22:30:00
 isStaticPost: false
 author: API Addicts
 authorLink: https://twitter.com/apiaddicts

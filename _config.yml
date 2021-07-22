@@ -8,7 +8,7 @@ markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "API Addicts Days 2020"
+title: "API Addicts Days 2021"
 email: "contacta@apiaddicts.org"
 description: "El evento de APIs en Español más importante del mundo"
 #baseurl: "/apidaysmad"
@@ -36,7 +36,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.jpeg"
 socialImageSrcLinkedin: "/img/seo/sharing-linkedin.jpeg"
 
 # Documents
-c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
+c4pUrl: "https://forms.gle/zSWfG7xLY4MdVRW27"
 c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20API%20Days%20Madrid"
 
 
@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "API Addicts Day <typeout> 2020"
-eventDate: "13,14 y 15 de Octubre del 2020"
+heroTitle: "API Addicts Day <typeout> 2021"
+eventDate: "13,14 y 15 de Octubre del 2021"
 typeoutTextValues: '"(Estrategias y Modelos)", "(Arquitecturas)", "(Seguridad)"'
 typeoutFallback: "(Estrategias y Modelos)"
 heroButtons:
@@ -98,9 +98,9 @@ rockstarSpeakersButtonText: "Ver todos"
 #eventAddressLocalityRegion: "Madrid"
 #eventPostalCode: "28021"
 #eventAddressCountry: "España"
-#eventStartTime: "2020-06-23T12:00"
+#eventStartTime: "2021-06-23T12:00"
 #eventDoorTime: "10:00"
-#eventEndTime: "2020-06-23T20:00"
+#eventEndTime: "2021-06-23T20:00"
 #eventPlaceCoordinates: "40.3194127,-3.7010149"
 #mapCenterCoordinates: "40.3194127,-3.7010149"
 #mapMobileCenterCoordinates: "40.3194127,-3.7010149"
