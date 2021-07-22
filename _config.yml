@@ -68,7 +68,7 @@ heroButtons:
 # About Block
 aboutTitle: "APIAddicts Day"
 aboutBlock:
- - {title: "El mayor evento de APIs en España y LATAM", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APIs para tu organización" }
+ - {title: "El mayor evento de APIExperts", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APIs para tu organización" }
  - {title: "Tecnologías aplicadas a las APIs", image: "meetup.jpg", text: "Conoce de primera mano los métodos de las nuevas tecnologías aplicadas a las APIs" }
  - {title: "Gobiernos de APIs", image: "premio.jpg", text: "Descubre de primera mano cuales son los éxitos y fracasos construyendo gobiernos de APIs" }
 
@@ -78,16 +78,16 @@ statisticBlock:
  - {count: "300", specialCharacter: "+", info: "entradas", detail: ""}
  - {count: "6", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
  - {count: "10", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
- - {count: "3", specialCharacter: "", info: "días", detail: "modelos/arquitectura/seguridad"}
+ #- {count: "3", specialCharacter: "", info: "días", detail: "modelos/arquitectura/seguridad"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Ponentes"
-rockstarSpeakersButtonText: "Ver todos"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 4
+#rockstarSpeakersTitle: "Ponentes"
+#rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 #locationBlockTitle: "Ubicación"
