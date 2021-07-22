@@ -15,12 +15,11 @@ Haz tu propuesta antes del 16 de Septiembre.
 
 ¡Te esperamos, APIAddict!.
 
-###### [<b>¡Quiero ser Speaker!</b>](https://forms.gle/zSWfG7xLY4MdVRW27)
-
+###### [<b>¡Quiero ser Speaker!</b>](https://forms.gle/zSWfG7xLY4MdVRW27)  
+  
 ##### Comparte la experiencia
-Vamos a estar compartiendo lo que pasa bajo el hashtag [#apiaddictsdays21](https://twitter.com/search?q=%23apiaddictsdays21&src=typed_query). Si quieres ser parte de gran evento, hazlo utilizando esta etiqueta y ¡aparecerás en la web oficial del evento! 
-</br>
-</br>
+Vamos a estar compartiendo lo que pasa bajo el hashtag [#apiaddictsdays21](https://twitter.com/search?q=%23apiaddictsdays21&src=typed_query). Si quieres ser parte de gran evento, hazlo utilizando esta etiqueta y ¡aparecerás en la web oficial del evento!   
+  
 
 ##### Nuestras redes sociales
 - [LinkedIn](https://www.linkedin.com/company/apiaddicts)
@@ -37,6 +36,6 @@ Vamos a estar compartiendo lo que pasa bajo el hashtag [#apiaddictsdays21](https
 - [Meetup Lima](https://www.meetup.com/es-ES/APIAddictsPE)
 - [Meetup Chile](https://www.meetup.com/es-ES/APIAddictsCH)
 - [Meetup Argentina](https://www.meetup.com/es-ES/APIAddictsAR)
-
+  
 
 ###### ¡Nos vemos pronto!
