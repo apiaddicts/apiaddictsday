@@ -7,22 +7,22 @@ author: Marco A. Sanz de APIAddicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-##### ¡Ahora sí... el **APIAddicts Day** ya está aquí!  
+##### **¡Ahora sí... el APIAddicts Day ya está aquí!**
 
-Un año más, organizamos el APIAddictsDays21, el evento más importante de expertos en APIs en España y LATAM. 
+Un año más, organizamos el APIAddictsDay21, el evento más importante de expertos en APIs en España y LATAM. 
 Si quieres participar como ponente... ¡no te cortes! 
 Haz tu propuesta antes del 16 de Septiembre.
 
 ¡Te esperamos, APIAddict!.
 
-##### [<b>¡Quiero ser Speaker!</b>](https://forms.gle/zSWfG7xLY4MdVRW27)</br>
-
+##### [<b>¡Quiero ser Speaker!</b>](https://forms.gle/zSWfG7xLY4MdVRW27)
+</br>
+</br>
 
 ##### Comparte la experiencia
 Vamos a estar compartiendo lo que pasa bajo el hashtag [#apiaddictsdays21](https://twitter.com/search?q=%23apiaddictsdays21&src=typed_query). Si quieres ser parte de gran evento, hazlo utilizando esta etiqueta y ¡aparecerás en la web oficial del evento! 
-
-<img src="{{site.baseurl}}/img/posts/take-your-tickets.png" width="100%" alt="APIAddicts"/>
-
+</br>
+</br>
 
 ##### Nuestras redes sociales
 - [LinkedIn](https://www.linkedin.com/company/apiaddicts)
