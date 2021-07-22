@@ -188,17 +188,17 @@ footerBlocks:
    - {link: "https://www.linkedin.com/company/apiaddicts", text: "Linkedin"}
    - {link: "https://www.facebook.com/apiaddicts/", text: "Facebook"}
    - {link: "https://twitter.com/apiaddicts", text: "Twitter"}
+   - {link: "https://www.twitch.tv/apiaddicts", text: "Twitch"}
    - {link: "https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos", text: "Youtube"}
+   - {link: "https://open.spotify.com/show/7iUK6AUQug2nBhvayt6sni", text: "Spotify"}
    - {link: "https://www.meetup.com/es-ES/preview/ApiAddicts", text: "Grupo de Meetup Madrid"}
    - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsBCN", text: "Grupo de Meetup Barcelona"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsCAS", text: "Grupo de Meetup Castellón"}
    - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsCO", text: "Grupo de Meetup Colombia"}
    - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsMX", text: "Grupo de Meetup México DF"}
-   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsMON", text: "Grupo de Meetup Monterrey"}
    - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsPE", text: "Grupo de Meetup Lima"}
    - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsCH", text: "Grupo de Meetup Chile"}
    - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsAR", text: "Grupo de Meetup Buenos Aires"}
-   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsUS", text: "Grupo de Meetup Miami"}
-   - {link: "https://www.meetup.com/es-ES/preview/ApiAddictsCAS", text: "Grupo de Meetup Castellón"}
  -
   title: "Contacto"
   links:
@@ -221,11 +221,11 @@ teamBlockTitle: "Sobre Nosotros"
 aboutUs: "En los últimos años, las APIs se han convertido en una forma revolucionaria de negocio para las empresas.
   El número de innovaciones tecnológicas y de industrias que están creciendo gracias al poder de las APIs es enorme.
   Cada vez se abren más puertas de negocio gracias a las APIs. <br>
-  Por eso en APIAddicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
+  Por eso en <a href=\"https://apiaddicts.org/\" target=\"_blank\">API Addicts</a> nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
   formatos. Somos amantes y expertos de las APIs. Así fue como creamos el grupo, por el interés de crear una comunidad abierta
-  en la cual todos puedan participar y aprender acerca de las APIs. <br>
-  Actualmente somos el mayor grupo hispano hablante a nivel nacional, y pronto lo seremos a nivel mundial.
-  Si no nos conoces, puedes saber más sobre nosotros en nuestro y ver lo que hacemos en nuestro canal de youtube"
+  en la cual todos puedan participar y aprender acerca de las APIs. Actualmente somos el mayor grupo hispano hablante a nivel nacional, y pronto lo seremos a nivel mundial.<br>
+  Si no nos conoces, puedes saber más sobre nosotros y ver lo que hacemos en <a href=\"https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ\" target=\"_blank\">nuestro canal de youtube</a> 
+  o en <a href=\"https://www.linkedin.com/company/apiaddicts/\" target=\"_blank\">nuestras redes sociales</a>. <br> ¡Te esperamos APIAddict!<br>"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
