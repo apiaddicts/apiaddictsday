@@ -43,41 +43,41 @@ c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20API%20Days%2
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Ponentes"}
+ #- {permalink: "/schedule/", text: "Agenda"}
+ #- {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
+ #- {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
+ #- {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "APIAddicts Day <typeout> 2021"
-eventDate: "13,14 y 15 de Octubre del 2021"
-typeoutTextValues: '"(Estrategias y Modelos)", "(Arquitecturas)", "(Seguridad)"'
+heroTitle: "APIAddicts Day <typeout>"
+eventDate: "Octubre del 2021"
+typeoutTextValues: '"(Innovación)", "(Tecnología)", "(Negocio)"'
 typeoutFallback: "(Estrategias y Modelos)"
 heroButtons:
- #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
+ - {link: "https://forms.gle/zSWfG7xLY4MdVRW27", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
  #- {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
 
 # About Block
-aboutTitle: "APIAddicts Days"
+aboutTitle: "APIAddicts Day"
 aboutBlock:
- - {title: "Estrategias y Modelos", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APis para tu organización" }
- - {title: "Arquitectura", image: "meetup.jpg", text: "Nunca será más fácil entender las diferentes arquitecturas" }
- - {title: "Seguridad", image: "premio.jpg", text: "Securiza tu organización securizando las APIs" }
+ - {title: "El mayor evento de APIs en España y LATAM", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APIs para tu organización" }
+ - {title: "Tecnologías aplicadas a las APIs", image: "meetup.jpg", text: "Conoce de primera mano los métodos de las nuevas tecnologías aplicadas a las APIs" }
+ - {title: "Gobiernos de APIs", image: "premio.jpg", text: "Descubre de primera mano cuales son los éxitos y fracasos construyendo gobiernos de APIs" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "entradas", detail: ""}
- - {count: "12", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
- - {count: "20", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
+ - {count: "6", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
+ - {count: "10", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
  - {count: "3", specialCharacter: "", info: "días", detail: "modelos/arquitectura/seguridad"}
 
 # Latest News Block
@@ -117,7 +117,7 @@ rockstarSpeakersButtonText: "Ver todos"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
-twitterHashTag: "apiaddictsdays20"
+twitterHashTag: "apiaddictsdays21"
 twitterFeed: "https://tweetledee.cloudappi.net/searchjson_nocache.php?q=apiaddictsdays20"  
 
 # Partners Block
