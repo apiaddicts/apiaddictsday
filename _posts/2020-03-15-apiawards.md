@@ -1,24 +1,31 @@
 ---
 layout: post
-title:  "¡¡Abrimos el C4P para Speakers!!"
+title:  "¡¡C4P de los APIAwards!!"
 image: blog.jpg
-date:   2021-07-22 12:12:03
+date:   2021-07-21 10:20:03
 isStaticPost: false
 author: Marco A. Sanz de APIAddicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
-### **¡Ahora sí... el APIAddicts Day ya está aquí!**
+### **¡¡Bienvenid@ a los API Awards internacionales de APIAddictsDays21!!**
 
-Un año más, organizamos el APIAddictsDay21, el evento más importante de expertos en APIs en España y LATAM. 
-Si quieres participar como ponente... ¡no te cortes! 
-Haz tu propuesta antes del 16 de Septiembre.
+##### Sí, has leido bien... ¡HAN LLEGADO LOS APIAwards Internacionales.  
+Este año, gracias al apoyo de nuestros patrocinadores, tenemos la oportunidad realizar la primera edición de los APIAwards.  
+Consiste en 3 concursos donde un jurado formado por profesionales de cada sector otorgarán el premio al MVP APIExpert, al Mejor Developer Portal y a la Mejor API.  
+¡No pierdas la oportunidad y participa!
 
 ¡Te esperamos, APIAddict!.
 
-###### [<b>¡Quiero ser Speaker!</b>](https://forms.gle/zSWfG7xLY4MdVRW27)  
-  
-  
+###### [<b>¡MVP APIExpert!</b>](https://forms.gle/ZGMJyDBA1NQ9BNQf7)  
+
+
+###### [<b>¡Mejor Developer Portal!</b>](https://forms.gle/RNDw47Z2euidY6At6)  
+
+
+###### [<b>¡Mejor API!</b>](https://forms.gle/ceQsSaLBHWBqVGM46)  
+
+
 ##### Comparte la experiencia
 Vamos a estar compartiendo lo que pasa bajo el hashtag [#apiaddictsdays21](https://twitter.com/search?q=%23apiaddictsdays21&src=typed_query). Si quieres ser parte de gran evento, hazlo utilizando esta etiqueta y ¡aparecerás en la web oficial del evento!  
   
