@@ -8,7 +8,7 @@ markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "API Addicts Days 2021"
+title: "APIAddicts Days 2021"
 email: "contacta@apiaddicts.org"
 description: "El evento de APIs en Español más importante del mundo"
 #baseurl: "/apidaysmad"
@@ -20,8 +20,8 @@ googleAnalyticsSiteUrl: "apiaddictsday.apiaddicts.org"
 siteVerification: "8syDqXyPBXLeDN4OObptLtn2xyRCTBo-W9lLWhkoW_A"
 
 # Organizer Info
-organizerName: "API Addicts"
-organizerAlternateName: "API Addicts"
+organizerName: "APIAddicts"
+organizerAlternateName: "APIAddicts"
 organizerDescription: "Comunidad abierta en la que tratamos con pasión todos los aspectos de una API con un enfoque 360º"
 organizerEmail: "contacta@apiaddicts.org"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "API Addicts Day <typeout> 2021"
+heroTitle: "APIAddicts Day <typeout> 2021"
 eventDate: "13,14 y 15 de Octubre del 2021"
 typeoutTextValues: '"(Estrategias y Modelos)", "(Arquitecturas)", "(Seguridad)"'
 typeoutFallback: "(Estrategias y Modelos)"
@@ -66,7 +66,7 @@ heroButtons:
  #- {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
 
 # About Block
-aboutTitle: "API Addicts Days"
+aboutTitle: "APIAddicts Days"
 aboutBlock:
  - {title: "Estrategias y Modelos", image: "conference.jpg", text: "Descubre diferentes modelos de negocio y estrategias de APis para tu organización" }
  - {title: "Arquitectura", image: "meetup.jpg", text: "Nunca será más fácil entender las diferentes arquitecturas" }
@@ -184,7 +184,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://apiaddicts.org", text: "API Addicts"}
+   - {link: "https://apiaddicts.org", text: "APIAddicts"}
    - {link: "https://www.linkedin.com/company/apiaddicts", text: "Linkedin"}
    - {link: "https://www.facebook.com/apiaddicts/", text: "Facebook"}
    - {link: "https://twitter.com/apiaddicts", text: "Twitter"}
@@ -221,7 +221,7 @@ teamBlockTitle: "Sobre Nosotros"
 aboutUs: "En los últimos años, las APIs se han convertido en una forma revolucionaria de negocio para las empresas.
   El número de innovaciones tecnológicas y de industrias que están creciendo gracias al poder de las APIs es enorme.
   Cada vez se abren más puertas de negocio gracias a las APIs. <br>
-  Por eso en API Addicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
+  Por eso en APIAddicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
   formatos. Somos amantes y expertos de las APIs. Así fue como creamos el grupo, por el interés de crear una comunidad abierta
   en la cual todos puedan participar y aprender acerca de las APIs. <br>
   Actualmente somos el mayor grupo hispano hablante a nivel nacional, y pronto lo seremos a nivel mundial.

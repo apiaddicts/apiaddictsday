@@ -3,7 +3,7 @@ layout: post
 title:  "Cambiada la fecha del evento"
 date:   2021-06-03 22:30:00
 isStaticPost: false
-author: API Addicts
+author: APIAddicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
@@ -14,7 +14,7 @@ authorLink: https://twitter.com/apiaddicts
 Vamos a estar compartiendo lo que pasa bajo el hashtag [#apiaddictsday20](https://twitter.com/search?q=%23apiaddicts20). Si 
 quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web oficial del evento! 
 
-<img src="{{site.baseurl}}/img/posts/take-your-tickets.png" width="100%" alt="API Addicts"/>
+<img src="{{site.baseurl}}/img/posts/take-your-tickets.png" width="100%" alt="APIAddicts"/>
 
 ##### Enlaces de Interés
 - En twitter estaremos publicando con [#apiaddictsday20](https://twitter.com/search?q=%23apidaysmad17)

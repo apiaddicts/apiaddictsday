@@ -1,4 +1,4 @@
-# API Addicts Day # 20
+# APIAddicts Day # 20
 
 # [![APIAddictsDay20](img/sprites/organizer-logo.png)](https://github.com/apiaddicts/apiaddictsday)
 

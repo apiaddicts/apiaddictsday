@@ -3,12 +3,12 @@ layout: post
 title:  "Ya está abierto el Call For Papers"
 date:   2021-03-15 22:30:00
 isStaticPost: false
-author: API Addicts
+author: APIAddicts
 authorLink: https://twitter.com/apiaddicts
 ---
 
 ##### 
-¡Ahora sí! Ha llegado el momento. ¡El **API Addicts Day** ya está aquí!  
+¡Ahora sí! Ha llegado el momento. ¡El **APIAddicts Day** ya está aquí!  
 
 El 23 de Junio será el APIAddictsDay20, el evento más importante en España de APIs y el evento en español más importante del mundo.
 Si quieres participar como ponente, no te cortes y haz tu propuesta, tienes hasta el 25 de Marzo para poder realizarla.
@@ -21,7 +21,7 @@ Si quieres participar como ponente, no te cortes y haz tu propuesta, tienes hast
 Vamos a estar compartiendo lo que pasa bajo el hashtag [#apiaddictsday20](https://twitter.com/search?q=%23apiaddicts20). Si 
 quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web oficial del evento! 
 
-<img src="{{site.baseurl}}/img/posts/take-your-tickets.png" width="100%" alt="API Addicts"/>
+<img src="{{site.baseurl}}/img/posts/take-your-tickets.png" width="100%" alt="APIAddicts"/>
 
 ##### Enlaces de Interés
 - En twitter estaremos publicando con [#apiaddictsday20](https://twitter.com/search?q=%23apidaysmad17)

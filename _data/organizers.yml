@@ -1,7 +1,7 @@
 - 
   group: ""
   elements: 
-    - {name: "API Addicts", description: "API Addicts - La comunidad de los amantes de las APIs", link: "http://www.apiaddicts.org/", imageUrl: "api-addicts.png"}
+    - {name: "APIAddicts", description: "APIAddicts - La comunidad de los amantes de las APIs", link: "http://www.apiaddicts.org/", imageUrl: "api-addicts.png"}
 #-
 #  group: "Co-organizers"
 #  elements:
