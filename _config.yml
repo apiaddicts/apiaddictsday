@@ -84,7 +84,7 @@ concursoText2: "Este año, gracias al apoyo de nuestros patrocinadores, tenemos 
 Consiste en 3 concursos donde un jurado formado por profesionales de cada sector otorgarán el premio <br>
 al <b>MVP APIExpert</b>, al <b>Mejor Developer Portal</b> y a la <b>Mejor API</b>.<br> 
 ¡No pierdas la oportunidad y participa!<br>"
-concursoButtonLink: " "
+concursoButtonLink: "https://apiaddictsday.apiaddicts.org/blog/apiawards"
 concursoButtonText: "¡Quiero saber más!"
 
 # Statistic Block
