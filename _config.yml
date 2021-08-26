@@ -56,7 +56,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "APIAddicts Days <typeout>"
-eventDate: "Octubre de 2021"
+eventDate: "14 Octubre de 2021"
 typeoutTextValues: '"(Tecnología)", "(Negocio)", "(Innovación)"'
 typeoutFallback: "(Estrategias y Modelos)"
 heroButtons:

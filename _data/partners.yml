@@ -24,7 +24,7 @@
     - {name: "CorreosLabs", description: "Punto de encuentro entre empresas, profesionales, emprendedores y startups, que pueden crear sinergias y desarrollar modelos de negocio innovadores.", link: "https://correoslabs.com/", imageUrl: "correoslabs.png"}
     - {name: "Nexum", description: "Incubadora de Empresas de la PUCP", link: "https://cide.pucp.edu.pe/incubacion-empresas/", imageUrl: "nexum.png"}
     - {name: "UJI Espaitec", description: "Un programa para fomentar el emprendimiento en la Universitat Jaume I.", link: "https://espaitec.uji.es/", imageUrl: "uji_espaitec.png"}
-#   - {name: "AEFI Asociacion Española de Fintech e Insurtech", description: "Fintech Association that represents more than 160 FinTech and InsurTech in Spain", link: "https://www.asociacionfintech.es/", imageUrl: "aefi.jpeg"}
+    - {name: "AEFI Asociacion Española de Fintech e Insurtech", description: "Fintech Association that represents more than 160 FinTech and InsurTech in Spain", link: "https://www.asociacionfintech.es/", imageUrl: "aefi.jpeg"}
 #-
 #  group: "With support of"
 #  elements:
