@@ -8,7 +8,7 @@ markdown: kramdown
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "APIAddicts Day 2021"
+title: "APIAddictsDays21"
 email: "contacta@apiaddicts.org"
 description: "El evento de APIs en Español más importante del mundo"
 #baseurl: "/apidaysmad"
@@ -49,20 +49,20 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- #- {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
+ - {link: "https://www.eventbrite.es/e/entradas-apiaddictsdays-2021-164297635651?aff=web", text: "Obtener entradas"}
 rightNavigationButtons:
- #- {link: "https://www.eventbrite.es/e/apiaddictsdays20-tickets-100809237142", text: "Obtener entradas"}
+ - {link: "https://www.eventbrite.es/e/entradas-apiaddictsdays-2021-164297635651?aff=web", text: "Obtener entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "APIAddicts Days <typeout>"
-eventDate: "14 Octubre de 2021"
+heroTitle: "APIAddictsDays21 <typeout>"
+eventDate: "14 Octubre"
 typeoutTextValues: '"(Tecnología)", "(Negocio)", "(Innovación)"'
 typeoutFallback: "(Estrategias y Modelos)"
 heroButtons:
  - {link: "https://forms.gle/zSWfG7xLY4MdVRW27", text: "Enviar propuesta"}
- #- {permalink: "/#tickets", text: "Comprar entradas"}
- #- {link: "https://www.eventbrite.co.uk/e/apidaysmad-2019-tickets-59918254111", text: "Obtener entradas"}
+ - {permalink: "/#tickets", text: "Comprar entradas"}
+ - {link: "https://www.eventbrite.es/e/entradas-apiaddictsdays-2021-164297635651?aff=web", text: "Obtener entradas"}
 
 # About Block
 aboutTitle: "APIAddicts Days"
@@ -72,10 +72,10 @@ aboutBlock:
  - {title: "Gobiernos de APIs", image: "premio.jpg", text: "Descubre de primera mano cuales son los éxitos y fracasos construyendo gobiernos de APIs" }
 
 # entradas Block
-entradasTitle: "¡Ya puedes reservar tu entrada!"
-entradasText: "Estamos organizando este gran evento, próximamente desvelaremos más detalles, pero ¡puedes reservar tu entrada anticipada ya!"
-entradasButtonLink: "https://www.eventbrite.es/e/entradas-apiaddictsdays-2021-164297635651?aff=web"
-entradasButtonText: "Reservar mi entrada"
+entradasTitle: "¡Aun puedes ser speaker de esta edición del APIAddictsDays21!"
+entradasText: "¡No te cortes, APIExpert! Haz tu propuesta antes del 16 de Septiembre."
+entradasButtonLink: "https://docs.google.com/forms/d/e/1FAIpQLSeKYT4kYiL1rlL5vrSfQteCU_Uyx4R9QJW4mULeKeiLVDxAAg/viewform#"
+entradasButtonText: "Enviar mi propuesta"
 
 # Concurso Block
 concursoTitle: "APIAwards de APIAddicts"
