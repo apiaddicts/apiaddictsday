@@ -60,8 +60,8 @@ eventDate: "14 Octubre"
 typeoutTextValues: '"(Tecnología)", "(Negocio)", "(Innovación)"'
 typeoutFallback: "(Estrategias y Modelos)"
 heroButtons:
- - {link: "https://forms.gle/zSWfG7xLY4MdVRW27", text: "Enviar propuesta"}
- - {permalink: "/#tickets", text: "Comprar entradas"}
+ #- {link: "https://forms.gle/zSWfG7xLY4MdVRW27", text: "Enviar propuesta"}
+ #- {permalink: "/#tickets", text: "Comprar entradas"}
  - {link: "https://www.eventbrite.es/e/entradas-apiaddictsdays-2021-164297635651?aff=web", text: "Obtener entradas"}
 
 # About Block
