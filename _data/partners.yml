@@ -25,7 +25,8 @@
     - {name: "Nexum", description: "Incubadora de Empresas de la PUCP", link: "https://cide.pucp.edu.pe/incubacion-empresas/", imageUrl: "nexum.png"}
     - {name: "UJI Espaitec", description: "Un programa para fomentar el emprendimiento en la Universitat Jaume I.", link: "https://espaitec.uji.es/", imageUrl: "uji_espaitec.png"}
     - {name: "AEFI Asociacion Española de Fintech e Insurtech", description: "Fintech Association that represents more than 160 FinTech and InsurTech in Spain", link: "https://www.asociacionfintech.es/", imageUrl: "aefi.jpeg"}
-    - {name: "Big Girls Theory", description: "Grupo de chicas apasionadas por la #tecnología 🖥 con ganas de ayudarte a dar los primeros pasos en este mundo. ¡Haz bang!", link: "https://twitter.com/biggirlstheory", imageUrl: "big-girls-theory.png"}
+    - {name: "Big Girls Theory", description: "Grupo de chicas apasionadas por la #tecnología con ganas de ayudarte a dar los primeros pasos en este mundo. ¡Haz bang!", link: "https://twitter.com/biggirlstheory", imageUrl: "big-girls-theory.png"}
+    - {name: "ProinChile", description: "Red de programadores e informáticos de Chile, una organización sin fines de lucro, que busca conectar Chile a través del código y producir impacto", link: "https://www.proinchile.org/", imageUrl: "logo-proin.png"}
 #-
 #  group: "With support of"
 #  elements:
