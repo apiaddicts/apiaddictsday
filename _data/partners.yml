@@ -27,6 +27,8 @@
     - {name: "AEFI Asociacion Española de Fintech e Insurtech", description: "Fintech Association that represents more than 160 FinTech and InsurTech in Spain", link: "https://www.asociacionfintech.es/", imageUrl: "aefi.jpeg"}
     - {name: "Big Girls Theory", description: "Grupo de chicas apasionadas por la #tecnología con ganas de ayudarte a dar los primeros pasos en este mundo. ¡Haz bang!", link: "https://twitter.com/biggirlstheory", imageUrl: "big-girls-theory.png"}
     - {name: "ProinChile", description: "Red de programadores e informáticos de Chile, una organización sin fines de lucro, que busca conectar Chile a través del código y producir impacto", link: "https://www.proinchile.org/", imageUrl: "proinchile.png"}
+    - {name: "OpenExpo", description: "Ventana de divulgación en Innovación Tecnológica, Transformación Digital y Open Source.", link: "https://openexpoeurope.com/es/", imageUrl: "open-expo-europe.png"}
+    - {name: "NodeJsMadrid", description: "En este grupo hablamos de Node.js, el entorno de servidor que usa JavaScript", link: "https://www.meetup.com/es-ES/Node-js-Madrid/", imageUrl: "NodeJSMadrid.jpg"}
 #-
 #  group: "With support of"
 #  elements:
