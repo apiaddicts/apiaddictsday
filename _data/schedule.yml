@@ -44,9 +44,9 @@
         endTime: "20:00",
         sessionIds: [007.1]
     }
-  tracks: 
+  tracks2: 
     - {title: "Track 2 - Principal", color: "#e21a3e"}
-  timeslots:
+  timeslots2:
     - {
         startTime: "15:00",
         endTime: "15:45",
@@ -87,9 +87,9 @@
       endTime: "20:00",
       sessionIds: [007.2]
     }
-  tracks: 
+  tracks3: 
     - {title: "Track 3 - Business", color: "#e21a3e"}
-  timeslots:
+  timeslots3:
     - {
         startTime: "15:00",
         endTime: "15:45",
@@ -133,9 +133,9 @@
 -
   date: "2021-10-14"
   dateReadable: "14 Octubre - Developer Day"
-  tracks:
+  tracks4:
     - {title: "Track 1 - DEMOS API Managers", color: "#e21a3e"}
-  timeslots:
+  timeslots4:
     - {
         startTime: "15:00",
         endTime: "15:45",
@@ -176,9 +176,9 @@
         endTime: "20:00",
         sessionIds: [007.4]
     }
-  tracks:
+  tracks5:
     - {title: "Track 2 - DEMOS APITools", color: "#e21a3e"}
-  timeslots:
+  timeslots5:
     - {
         startTime: "15:00",
         endTime: "15:30",
@@ -214,89 +214,89 @@
         endTime: "18:15",
         sessionIds: [007.5]
     }
-  tracks:
+  tracks6:
     - {title: "Track 2 - DEMOS APITools", color: "#e21a3e"}
-  timeslots:
+  timeslots6:
     - {
         startTime: "15:00",
         endTime: "15:45",
-        sessionIds: [001.4]
-    }
-    - {
-        startTime: "15:45",
-        endTime: "16:30",
-        sessionIds: [002.4]
-    }
-    - {
-        startTime: "16:30",
-        endTime: "17:15",
-        sessionIds: [003.4]
-    }
-    - {
-        startTime: "17:15",
-        endTime: "17:30",
-        sessionIds: [004.4]
-    }
-    - {
-        startTime: "17:30",
-        endTime: "18:15",
-        sessionIds: [005.4]
-    }
-    - {
-        startTime: "18:15",
-        endTime: "18:45",
-        sessionIds: [006.4]
-    }
-    - {
-        startTime: "18:45",
-        endTime: "19:15",
-        sessionIds: [007.4]
-    }
-    - {
-        startTime: "19:15",
-        endTime: "19:45",
-        sessionIds: [008.4]
-    }
-    - {
-        startTime: "19:45",
-        endTime: "20:00",
-        sessionIds: [009.4]
-    }
-  tracks:
-    - {title: "Track 3 - TALLERES", color: "#e21a3e"}
-  timeslots:
-    - {
-        startTime: "15:00",
-        endTime: "15:30",
         sessionIds: [001.6]
     }
     - {
-        startTime: "15:30",
+        startTime: "15:45",
         endTime: "16:30",
         sessionIds: [002.6]
     }
     - {
         startTime: "16:30",
-        endTime: "17:30",
+        endTime: "17:15",
         sessionIds: [003.6]
     }
     - {
-        startTime: "17:30",
-        endTime: "17:45",
+        startTime: "17:15",
+        endTime: "17:30",
         sessionIds: [004.6]
     }
     - {
-        startTime: "17:45",
-        endTime: "18:45",
+        startTime: "17:30",
+        endTime: "18:15",
         sessionIds: [005.6]
     }
     - {
-        startTime: "18:45",
-        endTime: "19:45",
+        startTime: "18:15",
+        endTime: "18:45",
         sessionIds: [006.6]
+    }
+    - {
+        startTime: "18:45",
+        endTime: "19:15",
+        sessionIds: [007.6]
+    }
+    - {
+        startTime: "19:15",
+        endTime: "19:45",
+        sessionIds: [008.6]
     }
     - {
         startTime: "19:45",
         endTime: "20:00",
-        sessionIds: [007.6]
+        sessionIds: [009.6]
+    }
+  tracks7:
+    - {title: "Track 3 - TALLERES", color: "#e21a3e"}
+  timeslots7:
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [001.7]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:30",
+        sessionIds: [002.7]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:30",
+        sessionIds: [003.7]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "17:45",
+        sessionIds: [004.7]
+    }
+    - {
+        startTime: "17:45",
+        endTime: "18:45",
+        sessionIds: [005.7]
+    }
+    - {
+        startTime: "18:45",
+        endTime: "19:45",
+        sessionIds: [006.7]
+    }
+    - {
+        startTime: "19:45",
+        endTime: "20:00",
+        sessionIds: [007.7]
     }
