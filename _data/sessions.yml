@@ -7,7 +7,7 @@
   id: 001.1
   title: "KEYNOTE"
   description: " Introducción de las charlas + Ciclo de vida + Novedades..."
-  subtype: presentation
+  subtype: keynote
   speakers: [MAS]
   complexity: "service"
 -
@@ -28,6 +28,7 @@
   id: 004.1
   title: "Coffee break"
   description: ""
+  subtype: presentation
   complexity: "service"
 -
   id: 005.1
@@ -54,12 +55,12 @@
   id: 008.1
   title: "APIAwards MVP - Clausura"
   description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: "service"
+  subtype: presentation
 -
   id: 001.2
   title: "KEYNOTE"
   description: " Introducción de las charlas + Ciclo de vida + Novedades..."
-  subtype: presentation
+  subtype: keynote
   speakers: [MAS]
   complexity: "service"
 -
@@ -80,6 +81,7 @@
   id: 004.2
   title: "Coffee break"
   description: ""
+  subtype: presentation
   complexity: "service"
 -
   id: 005.2
@@ -106,12 +108,12 @@
   id: 008.2
   title: "APIAwards MVP - Clausura"
   description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: "service"
+  subtype: presentation
 -
   id: 001.3
   title: "KEYNOTE"
   description: "Introducción de las charlas + Ciclo de vida + Novedades..."
-  subtype: presentation
+  subtype: keynote
   speakers: [MAS]
   complexity: "service"
 -
@@ -132,6 +134,7 @@
   id: 004.3
   title: "Coffee break"
   description: ""
+  subtype: presentation
   complexity: "service"
 -
   id: 005.3
@@ -158,12 +161,12 @@
   id: 008.3
   title: "APIAwards MVP - Clausura"
   description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: "service"
+  subtype: presentation
 -
   id: 001.4
   title:  "KEYNOTE"
   description: "Introducción de las charlas + Ciclo de vida + Novedades..."
-  subtype: presentation
+  subtype: keynote
   speakers: [MAS]
   complexity: "service"
 -
@@ -198,6 +201,7 @@
   id: 006.4
   title: "Coffee break"
   description: ""
+  subtype: presentation
   complexity: "service"
 -
   id: 007.4
@@ -231,84 +235,85 @@
   id: 011.4
   title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
   description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: service
+  subtype: presentation
 -
   id: 001.5
   title:  "KEYNOTE"
   description: "Introducción de las charlas + Ciclo de vida + Novedades..."
-  subtype: service
+  subtype: keynote
   speakers: [MAS]
 -
   id: 002.5
   title: "DEMO: MICROCKS"
   description: ""
-  subtype: demo
+  subtype: presentation
   speakers: [IM]
   complexity: "Intermediate"
 -
   id: 003.5
   title: "DEMO: ReadyAPI"
   description: ""
-  subtype: demo
+  subtype: presentation
   speakers: [RC]
   complexity: "Intermediate"
 -
   id: 004.5
   title: "DEMO: OPENAPI2POSTMAN"
   description: ""
-  subtype: demo
+  subtype: presentation
   speakers: [JL]
   complexity: "Intermediate"
 -
   id: 005.5
   title: "DEMO: DOSONARAPI"
   description: ""
-  subtype: demo
+  subtype: presentation
   speakers: [FF]
   complexity: "Intermediate"
 -
   id: 006.5
   title: "Coffee break"
   description: ""
+  subtype: presentation
   complexity: "service"
 -
   id: 007.5
   title: "APIMatic"
   description: ""
-  subtype: demo
+  subtype: presentation
   speakers: [MAS]
   complexity: "Intermediate"
 -
   id: 008.5
   title: "DEMO: APICUR.IO"
   description: ""
-  subtype: demo
+  subtype: presentation
   speakers: [MAS]
   complexity: "Intermediate"
 -
   id: 009.5
   title: "DEMO: POSTMAN"
   description: ""
-  subtype: demo
+  subtype: presentation
   speakers: [MAS]
   complexity: "Intermediate"
 -
   id: 010.5
   title: "DEMO: APIGenerator"
   description: ""
-  subtype: demo
+  subtype: presentation
   speakers: [MAS]
   complexity: "Intermediate"
 -
   id: 011.5
   title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
   description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: service
+  subtype: presentation
 -
   id: 001.6
   title:  "KEYNOTE"
   description: "Introducción de las charlas + Ciclo de vida + Novedades..."
-  subtype: demo
+  subtype: keynote
   speakers: [MAS]
   complexity: "Intermediate"
 -
@@ -329,6 +334,7 @@
   id: 004.6
   title: "Coffee break"
   description: ""
+  subtype: presentation
   subtype: service
 -
   id: 005.6
@@ -348,4 +354,4 @@
   id: 007.6
   title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
   description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: service
+  subtype: presentation
