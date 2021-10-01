@@ -2,7 +2,7 @@
   date: "2021-10-13"
   dateReadable: "13 de Octubre - API Day"
   tracks: 
-    - {title: "Track 1 - Seguridad", color: "#e21a3e"}
+    - {title: "Track 1 - Seguridad", color: "#90be4e"}
   timeslots:
     - {
         startTime: "15:00",
@@ -48,7 +48,7 @@
   date: "2021-10-13"
   dateReadable: ""
   tracks: 
-    - {title: "Track 2 - Principal", color: "#e21a3e"}
+    - {title: "Track 2 - Principal", color: "#90be4e"}
   timeslots:
     - {
         startTime: "15:00",
@@ -94,7 +94,7 @@
   date: "2021-10-13"
   dateReadable: ""
   tracks: 
-    - {title: "Track 3 - Business", color: "#e21a3e"}
+    - {title: "Track 3 - Business", color: "#90be4e"}
   timeslots:
     - {
         startTime: "15:00",
@@ -140,7 +140,7 @@
   date: "2021-10-14"
   dateReadable: "14 Octubre - Developer Day"
   tracks:
-    - {title: "Track 1 - DEMOS API Managers", color: "#e21a3e"}
+    - {title: "Track 1 - DEMOS API Managers", color: "#90be4e"}
   timeslots:
     - {
         startTime: "15:00",
@@ -186,7 +186,7 @@
   date: "2021-10-14"
   dateReadable: ""
   tracks:
-    - {title: "Track 2 - DEMOS APITools", color: "#e21a3e"}
+    - {title: "Track 2 - DEMOS APITools", color: "#90be4e"}
   timeslots:
     - {
         startTime: "15:00",
@@ -227,7 +227,7 @@
   date: "2021-10-14"
   dateReadable: ""
   tracks:
-    - {title: "Track 2 - DEMOS APITools", color: "#e21a3e"}
+    - {title: "Track 2 - DEMOS APITools", color: "#90be4e"}
   timeslots:
     - {
         startTime: "15:00",
@@ -278,7 +278,7 @@
   date: "2021-10-14"
   dateReadable: ""
   tracks:
-    - {title: "Track 3 - TALLERES", color: "#e21a3e"}
+    - {title: "Track 3 - TALLERES", color: "#90be4e"}
   timeslots:
     - {
         startTime: "15:00",
@@ -315,3 +315,4 @@
         endTime: "20:00",
         sessionIds: [007.7]
     }
+    
