@@ -150,4 +150,202 @@
   title: "Clausura - sorteos"
   description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
   subtype: service
-
+-
+  id: 001.4
+  title:  "Iniciando la seguridad entorno a las APis"
+  description: "No llegues tarde si no te quieres perder nada. Presentación de la sesión de seguridad de las APIs"
+  subtype: presentation
+  speakers: [MAS]
+  complexity: "Intermediate"
+-
+  id: 002.4
+  title: "Fallos de seguridad en las APIs: ¿por qué caen los más grandes ?"
+  description: "Cada día se descubren nuevas vulnerabilidades en las APIs. De Facebook a Starbucks pasando por Uber, muchos han caído. ¿Por qué? ¿Qué han hecho mal?
+  En esta sesión, haremos un repaso de los problemas más frecuentes basándonos en situaciones reales, y veremos como protegernos. Si no sabes lo que es OWASP, BOLA, Mass assignment o data leakage, ésta es tu sesión!
+  - ¿Por qué el OWASP Top 10 para APIs?
+  - ¿En qué y quién podemos confiar?
+  - ¿Qué nivel de autenticación necesito?
+  - ¿Qué nivel de autorización necesito?"
+  subtype: presentation
+  speakers: [IM]
+  complexity: "Intermediate"
+-
+  id: 003.4
+  title: "Un L4/L7 Gateway para proteger tu data."
+  description: "Los Data Gateways actúan igual que los API Gateways pero se orientan a los datos. Explicaré cómo implementar el Data Gateway, componente frecuentemente olvidado, para reforzar el acceso seguro a tus datos."
+  subtype: presentation
+  speakers: [RC]
+  complexity: "Intermediate"
+-
+  id: 004.4
+  title: "Mesa redonda de seguridad"
+  description: "Analizaremos las tendencias en seguridad"
+  subtype: presentation
+  speakers: [RGN,IM,FJB]
+  complexity: "Intermediate"
+-
+  id: 005.4
+  title: "Swagger2postman"
+  description: "El testing es parte de la seguridad"
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 006.4
+  title: "Seguridad desde un punto de vista developer"
+  description: "Oauth2.0, JWT... principales conceptos de seguridad en las APis para que cualquier developer lo pueda entender"
+  subtype: presentation
+  speakers: [MAS]
+  complexity: "Intermediate"
+-
+  id: 007.4
+  title: ""
+  description: ""
+  subtype: service
+-
+  id: 001.5
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 002.5
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 003.5
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 004.5
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 005.5
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 006.5
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 007.5
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 001.6
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 002.6
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 003.6
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 004.6
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 005.6
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 006.6
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 007.6
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 001.7
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 002.7
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 003.7
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 004.7
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 005.7
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 006.7
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
+-
+  id: 007.7
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [JL]
+  complexity: "Intermediate"
