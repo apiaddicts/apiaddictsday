@@ -15,14 +15,14 @@
   title: "OWASP API Security Top 10: A Beginner's Guide to Mitigation"
   description: ""
   subtype: presentation
-  speakers: [AB]
+  speakers: [IM]
   complexity: "Intermediate"
 -
   id: 003.1
   title: "Approaches to API Security"
   description: ""
   subtype: presentation
-  speakers: [RG]
+  speakers: [DA]
   complexity: "Intermediate"
 -
   id: 004.1
@@ -34,20 +34,21 @@
   title: "Mesa redonda de seguridad"
   description: "Analizaremos las tendencias en seguridad"
   subtype: presentation
-  speakers: [AC,MA,FF,FB]
+  speakers: [RC,IM,FJB,DA]
   complexity: "Intermediate"
 -
   id: 006.1
   title: "Seguridad en el CI/CD de las APIs"
   description: ""
   subtype: presentation
-  speakers: [RB]
+  speakers: [RC]
+  complexity: "Intermediate"
 -
   id: 007.1
   title: "Ciberseguridad de APIs con IA: YAY or NAY?"
   description: ""
   subtype: presentation
-  speakers: [AM]
+  speakers: [FJB]
   complexity: "Intermediate"
 -
   id: 008.1
@@ -66,14 +67,14 @@
   title: "Como aplicar Lean Change Management en implantaciones complejas de API Governance"
   description: ""
   subtype: presentation
-  speakers: [AD,SH]
+  speakers: [BG]
   complexity: "Intermediate"
 -
   id: 003.2
   title: "Nuevos medios de pago PSD2"
   description: ""
   subtype: presentation
-  speakers: [VMC]
+  speakers: [JMF]
   complexity: "Intermediate"
 -
   id: 004.2
@@ -85,21 +86,21 @@
   title: "Mesa redonda de arquitectura"
   description: "Se debatirá sobre las distintas arquitecturas entorno a las APis, sobre el presente y futuro de las mismas"
   subtype: presentation
-  speakers: [OV,JRH,NM]
+  speakers: [OV,NM,MP]
   complexity: "Intermediate"
 -
   id: 006.2
   title: "API Governance"
   description: ""
   subtype: presentation
-  speakers: [AGL]
+  speakers: [MP]
   complexity: "Intermediate"
 -
   id: 007.2
   title: "APIficación en Madrid Digital"
   description: ""
   subtype: presentation
-  speakers: [LF]
+  speakers: [RGR]
   complexity: "Intermediate"
 -
   id: 008.2
@@ -118,14 +119,14 @@
   title: "Un API para gobernar la Identidad digital global."
   description: ""
   subtype: presentation
-  speakers: [IM]
+  speakers: [MS]
   complexity: "Intermediate"
 -
   id: 003.3
   title: "Open Banking a través de modelos de negocio en el mundo Fintech"
   description: ""
   subtype: presentation
-  speakers: [RC]
+  speakers: [CH]
   complexity: "Intermediate"
 -
   id: 004.3
@@ -137,21 +138,21 @@
   title: "Mesa redonda de modelos de negocio"
   description: "Analizaremos las tendencias en los diferentes modelos de negocio"
   subtype: presentation
-  speakers: [RGN,IM,FJB]
+  speakers: [JMF,FB, MAS]
   complexity: "Intermediate"
 -
   id: 006.3
-  title: "El consumo energético de tus APIS n"
+  title: "El consumo energético de tus APIS"
   description: ""
   subtype: presentation
-  speakers: [JL]
+  speakers: [RG]
   complexity: "Intermediate"
 -
   id: 007.3
   title: "El uso de las APIs en la optimización de negocios"
   description: ""
   subtype: presentation
-  speakers: [MAS]
+  speakers: [DE]
   complexity: "Intermediate"
 -
   id: 008.3
@@ -177,12 +178,12 @@
   title: "DEMO: AXWAY"
   description: ""
   subtype: presentation
-  speakers: [RC]
+  speakers: [DA]
   complexity: "Intermediate"
 -
   id: 004.4
   title: "DEMO: MULESOFT"
-  description: "Analizaremos las tendencias en seguridad"
+  description: ""
   subtype: presentation
   speakers: [RGN,IM,FJB]
   complexity: "Intermediate"
@@ -257,14 +258,14 @@
   title: "DEMO: OPENAPI2POSTMAN"
   description: ""
   subtype: demo
-  speakers: [RGN]
+  speakers: [JL]
   complexity: "Intermediate"
 -
   id: 005.5
   title: "DEMO: DOSONARAPI"
   description: ""
   subtype: demo
-  speakers: [JL]
+  speakers: [FF]
   complexity: "Intermediate"
 -
   id: 006.5

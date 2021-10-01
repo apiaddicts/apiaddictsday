@@ -2,83 +2,38 @@
 #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
 
 -
-  id: AB
-  name: "Ana"
-  surname: "Buigues Grimalt"
-  company: "BBVA"
-  title: "Global Head of APIs | Product Owner| Change Agent | Human Leader"
-  bio: "Trabajo en BBVA Next Technologies desde hace 4 años para BBVA dando forma a la iniciativa de APIs internas del banco. Mi experiencia dando charlas, talleres a nivel compañía es extensa contando a diferentes stakeholders (negocio, developers, directivos etc..) la estrategia de las APIs en BBVA."
-  thumbnailUrl: ab.jpg
+  id: DA
+  name: "Daniel"
+  surname: "Atance"
+  company: "Axway"
+  title: "Pre-sales Consult"
+  bio: ''
+  thumbnailUrl: da.jpg
   rockstar: true
   social:
-  #  - {name: "twitter", link: "https://twitter.com/toolsprods"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anabuigues/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-atance/"}
 - 
   id: RG
   name: "Rafael"
   surname: "Granados"
-  company: "Silk"
-  title: "Digital Transformer | API Product Owner SILK (Servicios Informáticos La Caixa)  "
+  company: "Inditex"
+  title: "API Product Owner"
   bio: ''
   thumbnailUrl: rg.jpeg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/rafagranados/"}
-- 
-  id: AC
-  name: "Alberto"
-  surname: "Caro"
-  company: "Pullmantur"
-  title: "Responsable de desarrollo"
-  bio: "Más de 20 años liderando proyectos en el sector turístico"
-  thumbnailUrl: ac.jpeg
-  rockstar: true
-- 
-  id: MA
-  name: "Magno"
-  surname: "Alarcón"
-  company: "LeadGods"
-  title: "Consultor"
-  bio: "Ingeniero de sistemas con más de 10 años en gestión de proyectos digitales, proyectos e-commerce y apps. Experiencia en marketing y publicidad digital y tecnología bajo software libre.
-    Scrum Master Certified por Scrum Alliance, diplomado PMP, KMP (Kanban), diplomado en Marketing, innovación y transformación digital.
-    Brindo charlas y mentoring a startups en modelos de negocio y desarrollo de productos digitales. Asesor del Startup 'LeadGods' ganador de innovate Peru 2019. También soy empresario :D"
-  thumbnailUrl: ma.jpeg
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/magno-alarcon-48585723/"}
 -
-  id: FB
-  name: "Francisco"
-  surname: "Benedito"
-  company: "Climatetrade"
-  title: "CEO "
-  bio: "Licenciado en Derecho por la Universidad CEU San Pablo de España, MBA en la Universidad CEU San Pablo de Nanterre y PDD en el IE Business School de España. Comencé mi primera empresa a la edad de 16 años, una librería online en España. He creado diferentes empresas en el ámbito de las energías renovables e Internet y tuve la oportunidad de trabajar en el campo de las fusiones y adquisiciones en la empresa familiar  y disfrutó de una de las edades más bellas de España en las transacciones. He estado trabajando como banquero en uno de los bancos tecnológicos líderes en el mundo por más de 15 años como Gerente Regional, enfocado en la gestión de patrimonio y tecnología. En 2017 lancé Climatecoin, lo que los medios llamaron el Bitcoin del Cambio Climático, como vehículo de financiación de la Plataforma Climatetrade, un marketplace, basado en blockchain,  para la compra venta de créditos de carbono y apoyo a proyectos sostenibles de todo el mundo.  Dado el carácter innovador y visionario, tanto de Climatecoin como de Climatetrade, he sido invitado por gobiernos, organizaciones y entidades de alto prestigio a dar conferencias y talleres alrededor del mundo para hablar de la importancia de la tecnología en el mayor reto que afronta la humanidad, la lucha contra el cambio climático. Gracias a todo esto y al reconocimiento de Naciones Unidas como la mejor solución para los mercados del carbono post 2021, Francisco Benedito ha sido nombrado recientemente como uno de los 100 mejores influenciadores mundiales de Fintech para los objetivos de desarrollo sostenible (SDG)."
-  thumbnailUrl: fb.jpeg
+  id: BG
+  name: "Benjamin"
+  surname: "Granados"
+  company: "Banco Santander"
+  title: "Community & API Strategist"
+  bio: ''
+  thumbnailUrl: bg.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pmoncadaisla/"}
--
-  id: RB
-  name: "Rubén"
-  surname: "Bajo"
-  company: "Afterbanks"
-  title: "COO en Afterbanks"
-  bio: "Tengo más de 18 años de experiencia ejerciendo distintas labores a nivel estratégico, de operaciones y marketing online en modelos B2B, B2B2C, B2B2B y B2C. Desde hace cuatro años estoy muy involucrado en el sector Fintech, en lo referente a PSD2, Open Banking, y Transformación Digital. He dado varias charlas, formado parte de varios workshops y talleres gracias al recorrido profesional con el que cuento. Compartí mi discurso en los Finnovista Pitch Days: https://www.iebschool.com/blog/acude-primer-finnovista-pitch-day-madrid-finanzas/"
-  thumbnailUrl: rb.png
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rub%C3%A9n-bajo/"}
--
-  id: JRH
-  name: "Jose Ramon"
-  surname: "Huerga Ayuso"
-  company: "Everis"
-  title: "Technical Manager"
-  bio: "IT Professional with more than 15 years of experience in IT, delivering Agile projects in areas such as API Management / Microservices, Banking, CRM, ECM, and SOA. 
-       International career with outstanding English skills (IELTS exam, score: 7.0). Currently working in Germany, UK, Argentina, and Spain implementing Enterprise API Projects (CMA OpenBanking, PSD2) using IBM API Connect.
-       Alumni of IESE Business School (Ranking #5 of MBA Business Schools, according to Forbes)."
-  thumbnailUrl: JoseRamonHuerga.jpeg
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jrhuerga/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/benjagranados/"}
 -
   id: NM
   name: "Noelia"
@@ -124,85 +79,16 @@
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
 -
-  id: AM
-  name: "Arturo"
-  surname: "Gonzalez Mack Dowell"
-  company: "Eurobits"
-  title: "Presidente y CEO de eurobits"
-  bio: "Transforming the way people and businesses interact with financial services. All my professional career has pivoted around the introduction to market of high-tech products and services for the financial sector. The evolution from technical roles to management, through project management and then sales and marketing, has allowed me to remain rooted in the basic foundations of the business.
-  I've had the opportunity to collaborate and work with fantastic professional s to help bring to the market innovative services like electronic payments, mobile banking, electronic invoicing and Account Information Services.
-  My main goal in life is to enjoy the ride, which is something there is plenty of in managing Eurobits.
-  One of the achievements I am most proud of is the first Account Information Service in Europe which we have been offering through Eurobits since 2.004.
-  Specialties: High tech startups, Internet, Innovation, account aggregation, electronic invoicing, Banking "
-  thumbnailUrl: agm.jpeg
+  id: JMF
+  name: "Juan Manuel"
+  surname: "Fernández"
+  company: "Arcopay"
+  title: "Head Of Platform"
+  bio: ''
+  thumbnailUrl: jmf.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/arturo-gonzalez-mac-dowell/"}
--
-  id: AD
-  name: "Alberto"
-  surname: "Díaz"
-  company: "Encamina"
-  title: "Presidente y CEO de eurobits"
-  bio: "A professional with 15 years of experience in the IT Industry, all of them working with Microsoft Technologies. His principal activities are Development and Solution Analysts on his first years and as Team Leader and Solution Architect on the last 6 years. Currently Chief Technology Innovation Officer in ENCAMINA, leading the Innovation Process, the Microsoft technology software development and member of the management board.  For the Spanish Community, he works as organizer and speaker in the most important Microsoft technologies conferences which he is one of the most important leaders. Author of several books and articles in professional magazine, from 2013 he began a new career as co-director of CompartiMOSS, a Microsoft technologies magazine.
-  Microsoft Regional Director from 2021 and Microsoft MVP since 2011. He defined himself as a innovation geek, smartphones lover and software solution developer. For the community, has founded TenerifeDev (www.tenerifedev.com) with other friends, a technical community in Tenerife, coordinator at SUGES (SharePoint Users Group on Spain, www.suges.es) and coordinator of CrossDvlup, a technology community around development in Spain "
-  thumbnailUrl: ad.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/albertodiazmartin/"}
--
-  id: SH
-  name: "Sergio"
-  surname: "Hernández Mancebo"
-  company: "Encamina"
-  title: "Principal team leader"
-  bio: "Ingeniero Técnico en Informática de Gestión por la universidad Complutense de Madrid.
-Encargado como Principal Team Leader de liderar el equipo de Team Leader de Encamina, definir y mejorar la metodología de trabajo y supervisar el estado de los proyectos.
-Además amplia experiencia liderando proyectos desde el puesto de Team Leader, de desarrollo de proyectos software en entornos cloud de Microsoft en Azure y SharePoint 0365."
-  thumbnailUrl: sh.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
--
-  id: VMC
-  name: "Víctor Manuel"
-  surname: "Calvo Martínez"
-  company: "Everis"
-  title: "Expert Architect en everis"
-  bio: "Más de 12 años de experiencia construyendo software, trabajando con múltiples tecnologías, cambiando entre ellas día a día y deseando no parar.
-  Ingeniero de Software de titulación y apasionado por la tecnología por naturaleza.
-  Mis últimos años han estado centrados en arquitecturas software, especialmente centradas en arquitecturas de integración, soluciones iPaaS, API Managament y Event-Driven. Centrado en la tecnología y gestionando equipos, tratando de sacar lo mejor de ellos y no parando de aprender. "
-  thumbnailUrl: vmc.png
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jlebrato/"}
--
-  id: AGL
-  name: "Alfredo"
-  surname: "García Lavilla"
-  company: "Orange"
-  title: "Arquitecto de soluciones en Orange Spain , Product Owner de la iniciativa OpenAPI"
-  bio: "Mis puntos fuertes: API evangelization, Cloud & Devops best practices, Ayudo a crear una cultura sólida  de desarrollo en Orange Spain.
-  He participado como ponente en Codemotion 2019 y CommitConf 2019. 
-  https://youtu.be/EGv203zyEB8
-  https://youtu.be/8FoLc1JCbDs
-  He trabajado con APIs y Arquitecturas basadas en Servicios durante los últimos 10 años, adoptando roles tan diversos como los de Desarrollador, Arquitecto, Tech Lead o Product Owner. Durante los últimos 5 años, he estado liderando la iniciativa de OpenAPIs dentro de Orange España, ayudando a establecer una arquitectura de desarrollo de APIs en entornos Cloud Native dentro de Kubernetes.
-  Antes de unirse a Orange, Alfredo trabajó como Arquitecto IT en sectores tan diversos como Banca, Energía & Utilities, Digital Media y Grandes Eventos."
-  thumbnailUrl: agl.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/alfredo-garcia-lavilla/"}
--
-  id: LF
-  name: "Lucas"
-  surname: "Ferrari"
-  company: "Sensedia"
-  title: "Arquitecto de solución"
-  bio: "Soy arquitecto de solución experto en integración de APIs, arquitecturas modernas y plataformas escalables. Tengo experiencia en charlas y talleres paras los clientes de la empresa que trabajo, y algunos eventos de la comunidad, incluso una participación en APIAddicts hablando de gobierno de APIs."
-  thumbnailUrl: lf.jpeg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/lucasferrari/"}
+    - {name: "linkedin", link: "linkedin.com/in/juanmfarango/"}
 -
   id: IM
   name: "Isabel"
@@ -230,17 +116,6 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/chilcano/"}
--
-  id: RGN
-  name: "Ruth"
-  surname: "Gonzalez"
-  company: "BBVA Next Technologies Security Lab"
-  title: "Cybersecurity Researcher"
-  bio: "Graduada en Ingeniería en Tecnologías de Telecomunicación por la UPNA y doble Máster en Ingeniería de Telecomunicación e Ingeniería Telemática por la UC3M. Apasionada por las nuevas tecnologías, la seguridad y el cloud. Actualmente trabaja en el laboratorio de seguridad de BBVA Next Technologies investigando en nuevas tendencias de ciberseguridad y desarrollando aplicaciones y pruebas de concepto."
-  thumbnailUrl: rg.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ruthgonzaleznovillo/"}
 -
   id: JL
   name: "Javier"
@@ -274,3 +149,80 @@ Además amplia experiencia liderando proyectos desde el puesto de Team Leader, d
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/fjbarrena/"}
+-
+  id: MP
+  name: "Mayra"
+  surname: "Puntillo"
+  company: "Sensedia LATAM"
+  title: "Solutions Architect"
+  bio: ''
+  thumbnailUrl: mp.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mayra-puntillo-rodriguez/"}
+-
+  id: RGR 
+  name: "Rafael"
+  surname: "Gonzalez"
+  company: "Madrid Digital"
+  title: "Consultor APIficación"
+  bio: ''
+  thumbnailUrl: rgr.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafael-gonz%C3%A1lez-rodr%C3%ADguez-06498712/"}
+-
+  id: MS
+  name: "Mikel"
+  surname: "Sánchez"
+  company: "Veridas"
+  title: "CTO"
+  bio: ''
+  thumbnailUrl: ms.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mikel-s%C3%A1nchez-95247161/"}
+-
+  id: CH
+  name: "Carlos"
+  surname: "Horno"
+  company: "Qonto"
+  title: "Product Manager"
+  bio: ''
+  thumbnailUrl: ch.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carlos-horno-santacruz/"}
+-
+  id: FB
+  name: "Francisco"
+  surname: "Benedito"
+  company: "Climatetrade"
+  title: "CEO"
+  bio: ''
+  thumbnailUrl: fb.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/francisco-benedito-90bb1421/"}
+-
+  id: DE
+  name: "Daniel"
+  surname: "España"
+  company: "Scorce"
+  title: "CEO & Cofunder"
+  bio: ''
+  thumbnailUrl: de.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-espa%C3%B1a/"}
+-
+  id: DE
+  name: "Daniel"
+  surname: "España"
+  company: "Scorce"
+  title: "CEO & Cofunder"
+  bio: ''
+  thumbnailUrl: de.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-espa%C3%B1a/"}
