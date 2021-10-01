@@ -2,7 +2,7 @@
   date: "2021-10-13"
   dateReadable: "13 de Octubre - API Day"
   tracks: 
-    - {title: "Track 1 - Seguridad", color: "#90be4e"}
+    - {title: "Track 1 - Seguridad", color: "#E21A3E"}
   timeslots:
     - {
         startTime: "15:00",

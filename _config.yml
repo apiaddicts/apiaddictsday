@@ -92,7 +92,7 @@ statisticBlock:
  - {count: "300", specialCharacter: "+", info: "entradas", detail: ""}
  - {count: "10", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
  - {count: "30", specialCharacter: "+", info: "speakers", detail: "de todo el mundo"}
- - {count: "2", specialCharacter: "", info: "días", detail: "modelos/arquitectura/seguridad"}
+ - {count: "2", specialCharacter: "", info: "días", detail: "13 y 14 de Octubre"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
