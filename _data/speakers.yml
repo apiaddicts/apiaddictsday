@@ -314,3 +314,36 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/hugoguerrero/"}
+-
+  id: MQ
+  name: "Mauricio"
+  surname: "de la Quintana"
+  company: "Upstack"
+  title: "Senior Software Engineer"
+  bio: ''
+  thumbnailUrl: mq.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mauriciodelaquintana/"}
+-
+  id: IG
+  name: "Iván"
+  surname: "García"
+  company: "Indra"
+  title: "API Testing Architect"
+  bio: ''
+  thumbnailUrl: ig.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mauriciodelaquintana/"}
+-
+  id: AP
+  name: "Adrián"
+  surname: "Palanques"
+  company: "CloudAPPI"
+  title: "Arquitecto/Desarrollador Back Java"
+  bio: ''
+  thumbnailUrl: ap.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adrian-palanques-garcia/"}
