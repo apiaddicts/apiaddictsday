@@ -5,347 +5,347 @@
 
 -
   id: 001.1
-  title: "Iniciando en las estrategias y negocios entorno a las APis"
-  description: "No llegues tarde si no te quieres perder nada. Presentación de la sesión de estrategias y modelos de negocio entorno a las APIs"
+  title: "KEYNOTE"
+  description: " Introducción de las charlas + Ciclo de vida + Novedades..."
   subtype: presentation
   speakers: [MAS]
-  complexity: "Intermediate"
+  complexity: "service"
 -
   id: 002.1
-  title: "Apificando un Banco"
-  description: "En la charla se explicará la iniciativa de las APIs internas de BBVA, como se ha ido hacía un modelo global permitiendo de esta forma la generación de aplicaciones globales. El enfoque de comunidad inner source que seguimos, como trabajamos, como nos formamos etc... Pasando por el end to end de las APIs, desde su definición, implementación, generación de código, testing y despliegue en cloud con enfoque global."
+  title: "OWASP API Security Top 10: A Beginner's Guide to Mitigation"
+  description: ""
   subtype: presentation
   speakers: [AB]
   complexity: "Intermediate"
 -
   id: 003.1
-  title: "El Retorno de los RESTafaris"
-  description: "Todas las empresas utilizan con orgullo el concepto transformación digital, pero pocas realmente tienen claro el impacto tan grande que tienen estas palabras dentro de sus corporaciones y desconocen por completo los malabarismos que han de realizar los gobiernos del cambio para poder hacer que todo esto sea una realidad. La Apificación de los sistemas es una de las patas de este proceso de digitalización. Muchas veces la palabra Apificar se utiliza gratuitamente como si no tuviera ningún coste, pero nada más lejos de la realidad, convivir con el legacy, intentar abstraer a las diferentes aplicaciones para que puedan tener una visión del todo o el gobierno del dato hacen que la tarea todavía se complique más. Si a todo esto, añadimos un pequeño grupo residual que pretende que todo esto se escriba en un mismo idioma que todos podamos entender, la cosa se puede complicar todavía más. Es esta charla explicaremos la aventuras y desventuras de este grupo de personas que pretenden llevar a cabo el gobierno de las  API’s en una gran empresa y como han ido abriéndose paso en ella. "
+  title: "Approaches to API Security"
+  description: ""
   subtype: presentation
   speakers: [RG]
   complexity: "Intermediate"
 -
   id: 004.1
-  title: "Mesa redonda"
-  description: "Estrategias y modelos de negocio entorno a las APIs"
-  subtype: "Mesa redonda"
+  title: "Coffee break"
+  description: ""
+  complexity: "service"
+-
+  id: 005.1
+  title: "Mesa redonda de seguridad"
+  description: "Analizaremos las tendencias en seguridad"
+  subtype: presentation
   speakers: [AC,MA,FF,FB]
   complexity: "Intermediate"
 -
-  id: 005.1
-  title: "Modelos de negocio"
-  description: "Ventajas de la Iniciación de pagos como medio de pago alternativo"
+  id: 006.1
+  title: "Seguridad en el CI/CD de las APIs"
+  description: ""
   subtype: presentation
   speakers: [RB]
 -
-  id: 006.1
-  title: "SEPA API WG del ERPB"
+  id: 007.1
+  title: "Ciberseguridad de APIs con IA: YAY or NAY?"
   description: ""
   subtype: presentation
   speakers: [AM]
   complexity: "Intermediate"
 -
-  id: 007.1
-  title: "Clausura - sorteos"
-  description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
+  id: 008.1
+  title: "APIAwards MVP - Clausura"
+  description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
   subtype: service
 -
   id: 001.2
-  title:  "Iniciando las arquitecturas entorno a las APis"
-  description: "No llegues tarde si no te quieres perder nada. Presentación de la sesión de estrategias y modelos de negocio entorno a las APIs"
+  title: "KEYNOTE"
+  description: " Introducción de las charlas + Ciclo de vida + Novedades..."
   subtype: presentation
   speakers: [MAS]
-  complexity: "Intermediate"
+  complexity: "service"
 -
   id: 002.2
-  title: "Arquitectura de APis serverless"
+  title: "Como aplicar Lean Change Management en implantaciones complejas de API Governance"
+  description: ""
   subtype: presentation
   speakers: [AD,SH]
   complexity: "Intermediate"
 -
   id: 003.2
-  title: "Service Mesh, Kubernetes, Ingress, Envoy, Istio y otras aves raras"
-  description: "Dentro del universo kubernetes hay todo un ecosistema de piezas como Ingress, Envoy, Istio, etc. que acaban orbitando alrededor del enrutado y la seguridad de llamadas a endpoints. Merece la pena hablar de ellas ya que suelen ser grandes desconocidas para la mayor parte de las personas que trabajamos con APIs. Veremos quienes son y sobre todo, qué nos aportan."
+  title: "Nuevos medios de pago PSD2"
+  description: ""
   subtype: presentation
   speakers: [VMC]
   complexity: "Intermediate"
 -
   id: 004.2
-  title: "Mesa redonda"
+  title: "Coffee break"
+  description: ""
+  complexity: "service"
+-
+  id: 005.2
+  title: "Mesa redonda de arquitectura"
   description: "Se debatirá sobre las distintas arquitecturas entorno a las APis, sobre el presente y futuro de las mismas"
   subtype: presentation
   speakers: [OV,JRH,NM]
   complexity: "Intermediate"
 -
-  id: 005.2
-  title: "Implementando una Arquitectura Híbrida de Microservicios"
-  description: "En Orange España hemos convertido las APIs en el principal motor de nuestro proceso de Digitalización. Para ellos nos hemos apoyado en la versatilidad que ofrecen las OpenAPI del mundo Telco (TMForum). Gracias a este estándar y a las posibilidades de Kubernetes para modelar microservicios, hemos conseguido industrializar nuestro proceso de construcción de APIs y con ello asegurar que los estándares y buenas prácticas se aplican a lo largo de nuestra organización.
-  Entre una de estas prácticas está la posibilidad de desplegar una arquitectura hibrida de microservicios, que nos permite ejecutar cargas en Kubernetes sin necesidad de hacer reingenierías complejas en nuestros servicios actuales. La charla la divido en dos partes: en la primera resumo nuestro modelo de desarrollo API First y explico la arquitectura de ejecución que utilizamos. En la segunda parte hago una demo de nuestro proceso automatizado de generación de APIs y si hay tiempo, se despliega el api en un entorno Cloud.
-  Esta sería la primera presentación de esta charla"
+  id: 006.2
+  title: "API Governance"
+  description: ""
   subtype: presentation
   speakers: [AGL]
   complexity: "Intermediate"
 -
-  id: 006.2
-  title: "Arquitectura de APIs para Canales Digitales"
-  description: "En este contenido exploraremos cómo una arquitectura basada en API puede soportar estrategias para habilitar y modernizar canales digitales, productos y servicios, reflexionando sobre los principales desafíos y los diferentes niveles de madurez de las arquitecturas API diseñadas para este propósito."
+  id: 007.2
+  title: "APIficación en Madrid Digital"
+  description: ""
   subtype: presentation
   speakers: [LF]
   complexity: "Intermediate"
 -
-  id: 007.2
-  title: "Clausura - sorteos"
-  description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
+  id: 008.2
+  title: "APIAwards MVP - Clausura"
+  description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
   subtype: service
-## Seguridad
 -
   id: 001.3
-  title:  "Iniciando la seguridad entorno a las APis"
-  description: "No llegues tarde si no te quieres perder nada. Presentación de la sesión de seguridad de las APIs"
+  title: "KEYNOTE"
+  description: "Introducción de las charlas + Ciclo de vida + Novedades..."
   subtype: presentation
   speakers: [MAS]
-  complexity: "Intermediate"
+  complexity: "service"
 -
   id: 002.3
-  title: "Fallos de seguridad en las APIs: ¿por qué caen los más grandes ?"
-  description: "Cada día se descubren nuevas vulnerabilidades en las APIs. De Facebook a Starbucks pasando por Uber, muchos han caído. ¿Por qué? ¿Qué han hecho mal?
-  En esta sesión, haremos un repaso de los problemas más frecuentes basándonos en situaciones reales, y veremos como protegernos. Si no sabes lo que es OWASP, BOLA, Mass assignment o data leakage, ésta es tu sesión!
-  - ¿Por qué el OWASP Top 10 para APIs?
-  - ¿En qué y quién podemos confiar?
-  - ¿Qué nivel de autenticación necesito?
-  - ¿Qué nivel de autorización necesito?"
+  title: "Un API para gobernar la Identidad digital global."
+  description: ""
   subtype: presentation
   speakers: [IM]
   complexity: "Intermediate"
 -
   id: 003.3
-  title: "Un L4/L7 Gateway para proteger tu data."
-  description: "Los Data Gateways actúan igual que los API Gateways pero se orientan a los datos. Explicaré cómo implementar el Data Gateway, componente frecuentemente olvidado, para reforzar el acceso seguro a tus datos."
+  title: "Open Banking a través de modelos de negocio en el mundo Fintech"
+  description: ""
   subtype: presentation
   speakers: [RC]
   complexity: "Intermediate"
 -
   id: 004.3
-  title: "Mesa redonda de seguridad"
-  description: "Analizaremos las tendencias en seguridad"
+  title: "Coffee break"
+  description: ""
+  complexity: "service"
+-
+  id: 005.3
+  title: "Mesa redonda de modelos de negocio"
+  description: "Analizaremos las tendencias en los diferentes modelos de negocio"
   subtype: presentation
   speakers: [RGN,IM,FJB]
   complexity: "Intermediate"
 -
-  id: 005.3
-  title: "Swagger2postman"
-  description: "El testing es parte de la seguridad"
+  id: 006.3
+  title: "El consumo energético de tus APIS n"
+  description: ""
   subtype: presentation
   speakers: [JL]
   complexity: "Intermediate"
 -
-  id: 006.3
-  title: "Seguridad desde un punto de vista developer"
-  description: "Oauth2.0, JWT... principales conceptos de seguridad en las APis para que cualquier developer lo pueda entender"
+  id: 007.3
+  title: "El uso de las APIs en la optimización de negocios"
+  description: ""
   subtype: presentation
   speakers: [MAS]
   complexity: "Intermediate"
 -
-  id: 007.3
-  title: "Clausura - sorteos"
-  description: "Sortearemos un detallito entre los asistentes. ¡¡ No os lo podéis perder !!"
+  id: 008.3
+  title: "APIAwards MVP - Clausura"
+  description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
   subtype: service
 -
   id: 001.4
-  title:  "Iniciando la seguridad entorno a las APis"
-  description: "No llegues tarde si no te quieres perder nada. Presentación de la sesión de seguridad de las APIs"
+  title:  "KEYNOTE"
+  description: "Introducción de las charlas + Ciclo de vida + Novedades..."
   subtype: presentation
   speakers: [MAS]
-  complexity: "Intermediate"
+  complexity: "service"
 -
   id: 002.4
-  title: "Fallos de seguridad en las APIs: ¿por qué caen los más grandes ?"
-  description: "Cada día se descubren nuevas vulnerabilidades en las APIs. De Facebook a Starbucks pasando por Uber, muchos han caído. ¿Por qué? ¿Qué han hecho mal?
-  En esta sesión, haremos un repaso de los problemas más frecuentes basándonos en situaciones reales, y veremos como protegernos. Si no sabes lo que es OWASP, BOLA, Mass assignment o data leakage, ésta es tu sesión!
-  - ¿Por qué el OWASP Top 10 para APIs?
-  - ¿En qué y quién podemos confiar?
-  - ¿Qué nivel de autenticación necesito?
-  - ¿Qué nivel de autorización necesito?"
+  title: "DEMO: IBM API Connect"
+  description: ""
   subtype: presentation
   speakers: [IM]
   complexity: "Intermediate"
 -
   id: 003.4
-  title: "Un L4/L7 Gateway para proteger tu data."
-  description: "Los Data Gateways actúan igual que los API Gateways pero se orientan a los datos. Explicaré cómo implementar el Data Gateway, componente frecuentemente olvidado, para reforzar el acceso seguro a tus datos."
+  title: "DEMO: AXWAY"
+  description: ""
   subtype: presentation
   speakers: [RC]
   complexity: "Intermediate"
 -
   id: 004.4
-  title: "Mesa redonda de seguridad"
+  title: "DEMO: MULESOFT"
   description: "Analizaremos las tendencias en seguridad"
   subtype: presentation
   speakers: [RGN,IM,FJB]
   complexity: "Intermediate"
 -
   id: 005.4
-  title: "Swagger2postman"
-  description: "El testing es parte de la seguridad"
+  title: "DEMO: APIGEE"
+  description: ""
   subtype: presentation
   speakers: [JL]
   complexity: "Intermediate"
 -
   id: 006.4
-  title: "Seguridad desde un punto de vista developer"
-  description: "Oauth2.0, JWT... principales conceptos de seguridad en las APis para que cualquier developer lo pueda entender"
-  subtype: presentation
-  speakers: [MAS]
-  complexity: "Intermediate"
+  title: "Coffee break"
+  description: ""
+  complexity: "service"
 -
   id: 007.4
-  title: ""
+  title: "DEMO: SENSEDIA"
   description: ""
+  subtype: presentation
+  speakers: [MAS]
+  subtype: Intermediate
+-
+  id: 008.4
+  title: "DEMO: KONG"
+  description: ""
+  subtype: presentation
+  speakers: [MAS]
+  subtype: Intermediate
+-
+  id: 009.4
+  title: "DEMO: ORACLE"
+  description: ""
+  subtype: presentation
+  speakers: [MAS]
+  subtype: Intermediate
+-
+  id: 010.4
+  title: "DEMO: WSO2"
+  description: ""
+  subtype: presentation
+  speakers: [MAS]
+  subtype: Intermediate
+-
+  id: 011.4
+  title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
+  description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
   subtype: service
 -
   id: 001.5
-  title: ""
-  description: ""
+  title:  "KEYNOTE"
+  description: "Introducción de las charlas + Ciclo de vida + Novedades..."
   subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
+  speakers: [MAS]
+  complexity: "service"
 -
   id: 002.5
-  title: ""
+  title: "DEMO: MICROCKS"
   description: ""
-  subtype: presentation
-  speakers: [JL]
+  subtype: demo
+  speakers: [IM]
   complexity: "Intermediate"
 -
   id: 003.5
-  title: ""
+  title: "DEMO: ReadyAPI"
   description: ""
-  subtype: presentation
-  speakers: [JL]
+  subtype: demo
+  speakers: [RC]
   complexity: "Intermediate"
 -
   id: 004.5
-  title: ""
+  title: "DEMO: OPENAPI2POSTMAN"
   description: ""
-  subtype: presentation
-  speakers: [JL]
+  subtype: demo
+  speakers: [RGN]
   complexity: "Intermediate"
 -
   id: 005.5
-  title: ""
+  title: "DEMO: DOSONARAPI"
   description: ""
-  subtype: presentation
+  subtype: demo
   speakers: [JL]
   complexity: "Intermediate"
 -
   id: 006.5
-  title: ""
+  title: "Coffee break"
   description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
+  complexity: "service"
 -
   id: 007.5
-  title: ""
+  title: "APIMatic"
   description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
+  subtype: demo
+  speakers: [MAS]
+  subtype: Intermediate
+-
+  id: 008.5
+  title: "DEMO: APICUR.IO"
+  description: ""
+  subtype: demo
+  speakers: [MAS]
+  subtype: Intermediate
+-
+  id: 009.5
+  title: "DEMO: POSTMAN"
+  description: ""
+  subtype: demo
+  speakers: [MAS]
+  subtype: Intermediate
+-
+  id: 010.5
+  title: "DEMO: APIGenerator"
+  description: ""
+  subtype: demo
+  speakers: [MAS]
+  subtype: Intermediate
+-
+  id: 011.5
+  title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
+  description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
+  subtype: service
 -
   id: 001.6
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
+  title:  "KEYNOTE"
+  description: "Introducción de las charlas + Ciclo de vida + Novedades..."
+  subtype: demo
+  speakers: [MAS]
+  complexity: "service"
 -
   id: 002.6
-  title: ""
+  title: "TALLER: Visual DDD"
   description: ""
   subtype: presentation
-  speakers: [JL]
+  speakers: [MAS]
   complexity: "Intermediate"
 -
   id: 003.6
-  title: ""
+  title: "TALLER: Go para APIs"
   description: ""
   subtype: presentation
-  speakers: [JL]
+  speakers: [RC]
   complexity: "Intermediate"
 -
   id: 004.6
-  title: ""
+  title: "Coffee break"
   description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
+  complexity: "service"
 -
   id: 005.6
-  title: ""
+  title: "TALLER: Karate"
   description: ""
   subtype: presentation
   speakers: [JL]
   complexity: "Intermediate"
 -
   id: 006.6
-  title: ""
+  title: "TALLER: APIGEN"
   description: ""
   subtype: presentation
-  speakers: [JL]
+  speakers: [MAS]
   complexity: "Intermediate"
 -
   id: 007.6
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
--
-  id: 001.7
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
--
-  id: 002.7
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
--
-  id: 003.7
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
--
-  id: 004.7
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
--
-  id: 005.7
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
--
-  id: 006.7
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
--
-  id: 007.7
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [JL]
-  complexity: "Intermediate"
+  title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
+  description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
+  subtype: service
