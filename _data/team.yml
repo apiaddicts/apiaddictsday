@@ -39,3 +39,13 @@
   team: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/isamauny/"}
+- 
+  id: RG
+  name: "Rafael"
+  surname: "Granados"
+  company: "Inditex"
+  title: "API Product Owner"
+  thumbnailUrl: rg.jpeg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafagranados/"}

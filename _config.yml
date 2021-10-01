@@ -73,17 +73,16 @@ aboutBlock:
  - {title: "Gobiernos de APIs", image: "premio.jpg", text: "Descubre de primera mano cuales son los éxitos y fracasos construyendo gobiernos de APIs" }
 
 # entradas Block
-entradasTitle: "¡Aun puedes ser speaker de esta edición del APIAddictsDays21!"
-entradasText: "¡No te cortes, APIExpert! Haz tu propuesta antes del 16 de Septiembre."
-entradasButtonLink: "https://docs.google.com/forms/d/e/1FAIpQLSeKYT4kYiL1rlL5vrSfQteCU_Uyx4R9QJW4mULeKeiLVDxAAg/viewform#"
-entradasButtonText: "Enviar mi propuesta"
+entradasTitle: "¿Quieres asistir al evento más importante de APIs en español?"
+entradasText: "¡No te quedes sin tu entrada, están volando!"
+entradasButtonLink: "https://www.eventbrite.es/e/entradas-apiaddictsdays-2021-164297635651?aff=web"
+entradasButtonText: "Reservar mi plaza"
 
 # Concurso Block
 concursoTitle: "APIAwards de APIAddicts"
 concursoText: "Sí, has leido bien... <b>¡HAN LLEGADO LOS APIAwards Internacionales!</b><br>"
 concursoText2: "Este año, gracias al apoyo de nuestros patrocinadores, tenemos la oportunidad realizar la primera edición de los APIAwards.<br>
-Consiste en 3 concursos donde un jurado formado por profesionales de cada sector otorgarán el premio<br> al <b>MVP APIExpert</b>, al <b>Mejor Developer Portal</b> y a la <b>Mejor API</b>.<br> 
-¡No pierdas la oportunidad y participa!<br>"
+Son 3 concursos donde un jurado externo y formado por profesionales de cada sector otorgarán el premio<br> al <b>MVP APIExpert</b>, al <b>Best Developer Portal</b> y a la <b>Excepcional API</b>.<br> <br>"
 concursoButtonLink: "https://apiaddictsday.apiaddicts.org/blog/apiawards"
 concursoButtonText: "¡Quiero saber más!"
 

@@ -244,6 +244,21 @@
         endTime: "20:00",
         sessionIds: [008.5]
     }
+    - {
+        startTime: "19:45",
+        endTime: "20:00",
+        sessionIds: [009.5]
+    }
+    - {
+        startTime: "19:45",
+        endTime: "20:00",
+        sessionIds: [010.5]
+    }
+    - {
+        startTime: "19:45",
+        endTime: "20:00",
+        sessionIds: [011.5]
+    }
 -
   date: "2021-10-14"
   dateReadable: ""
