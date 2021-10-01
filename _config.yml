@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "APIAddictsDays21 <typeout>"
-eventDate: "14 Octubre"
+eventDate: "13 y 14 Octubre"
 typeoutTextValues: '"(Tecnología)", "(Negocio)", "(Innovación)"'
 typeoutFallback: "(Estrategias y Modelos)"
 heroButtons:
@@ -91,18 +91,18 @@ concursoButtonText: "¡Quiero saber más!"
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "entradas", detail: ""}
- - {count: "6", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
- - {count: "8", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
- #- {count: "3", specialCharacter: "", info: "días", detail: "modelos/arquitectura/seguridad"}
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "en torno a las APIs"}
+ - {count: "30", specialCharacter: "+", info: "speakers", detail: "de todo el mundo"}
+ - {count: "2", specialCharacter: "", info: "días", detail: "modelos/arquitectura/seguridad"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 4
-#rockstarSpeakersTitle: "Ponentes"
-#rockstarSpeakersButtonText: "Ver todos"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Ponentes"
+rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 #locationBlockTitle: "Ubicación"
