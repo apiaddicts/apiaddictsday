@@ -178,7 +178,7 @@
   company: "Veridas"
   title: "CTO"
   bio: ''
-  thumbnailUrl: ms.jpeg
+  thumbnailUrl: ms.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/mikel-s%C3%A1nchez-95247161/"}
@@ -216,13 +216,101 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-espa%C3%B1a/"}
 -
-  id: DE
-  name: "Daniel"
-  surname: "España"
-  company: "Scorce"
-  title: "CEO & Cofunder"
+  id: JAF
+  name: "José Ángel"
+  surname: "Flores"
+  company: "IBM"
+  title: "Integration Technical Sales"
   bio: ''
-  thumbnailUrl: de.png
+  thumbnailUrl: jaf.jpeg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-espa%C3%B1a/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jafloresg/"}
+-
+  id: AG
+  name: "Andrés"
+  surname: "Gómez"
+  company: "MuleSoft"
+  title: "Principal Solution Engineer"
+  bio: ''
+  thumbnailUrl: ag.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/andresgomez2/"}
+-
+  id: LC
+  name: "Luis"
+  surname: "Cuellar"
+  company: "Google"
+  title: "Transforming Lives Through Technology"
+  bio: ''
+  thumbnailUrl: lc.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luiscuellarh/"}
+-
+  id: JM
+  name: "Jesús"
+  surname: "Mazón"
+  company: "Sensedia"
+  title: "Arquitecto de soluciones"
+  bio: ''
+  thumbnailUrl: jm.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jes%C3%BAs-maz%C3%B3n-27164972/"}
+-
+  id: VM
+  name: "Victor"
+  surname: "Mendo"
+  company: "Oracle"
+  title: "Cloud Architect"
+  bio: ''
+  thumbnailUrl: vm.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/victormendo/"}
+-
+  id: JP
+  name: "Jacob"
+  surname: "de las Peñas"
+  company: "CloudAPPI"
+  title: "Full Stack Developer && API Expert"
+  bio: ''
+  thumbnailUrl: jp.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/company/cloudappi/"}
+-
+  id: AM
+  name: "Adrián"
+  surname: "Minnock"
+  company: "SmartBear"
+  title: "Solutions Engineer"
+  bio: ''
+  thumbnailUrl: am.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/company/smartbear/"}
+-
+  id: ST
+  name: "Sohaib"
+  surname: "Tariq"
+  company: "APIMatic.io"
+  title: "Product Manager"
+  bio: ''
+  thumbnailUrl: st.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sohaibtariqsprofile/"}
+-
+  id: HG
+  name: "Hugo"
+  surname: "Guerrero"
+  company: "Red Hat"
+  title: "Chief Software Architect, APIs & Integration Developer Advocate"
+  bio: ''
+  thumbnailUrl: hg.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hugoguerrero/"}

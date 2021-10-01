@@ -174,28 +174,28 @@
   title: "DEMO: IBM API Connect"
   description: ""
   subtype: presentation
-  speakers: [IM]
+  speakers: [JAF]
   complexity: "Intermediate"
 -
   id: 003.4
   title: "DEMO: AXWAY"
   description: ""
   subtype: presentation
-  speakers: [DA]
+  speakers: [AG]
   complexity: "Intermediate"
 -
   id: 004.4
   title: "DEMO: MULESOFT"
   description: ""
   subtype: presentation
-  speakers: [RGN,IM,FJB]
+  speakers: [AG]
   complexity: "Intermediate"
 -
   id: 005.4
   title: "DEMO: APIGEE"
   description: ""
   subtype: presentation
-  speakers: [JL]
+  speakers: [LC]
   complexity: "Intermediate"
 -
   id: 006.4
@@ -208,7 +208,7 @@
   title: "DEMO: SENSEDIA"
   description: ""
   subtype: presentation
-  speakers: [MAS]
+  speakers: [JM]
   complexity: "Intermediate"
 -
   id: 008.4
@@ -222,7 +222,7 @@
   title: "DEMO: ORACLE"
   description: ""
   subtype: presentation
-  speakers: [MAS]
+  speakers: [VM]
   complexity: "Intermediate"
 -
   id: 010.4
@@ -247,14 +247,14 @@
   title: "DEMO: MICROCKS"
   description: ""
   subtype: presentation
-  speakers: [IM]
+  speakers: [JP]
   complexity: "Intermediate"
 -
   id: 003.5
   title: "DEMO: ReadyAPI"
   description: ""
   subtype: presentation
-  speakers: [RC]
+  speakers: [AM]
   complexity: "Intermediate"
 -
   id: 004.5
@@ -281,14 +281,14 @@
   title: "DEMO: APIMatic"
   description: ""
   subtype: presentation
-  speakers: [MAS]
+  speakers: [ST]
   complexity: "Intermediate"
 -
   id: 008.5
   title: "DEMO: APICUR.IO"
   description: ""
   subtype: presentation
-  speakers: [MAS]
+  speakers: [HG]
   complexity: "Intermediate"
 -
   id: 009.5
@@ -302,7 +302,7 @@
   title: "DEMO: APIGenerator"
   description: ""
   subtype: presentation
-  speakers: [MAS]
+  speakers: [FF]
   complexity: "Intermediate"
 -
   id: 011.5
