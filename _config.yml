@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/judges/", text: "Jurado"}
+ #- {permalink: "/judges/", text: "Jurado"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}

@@ -54,7 +54,7 @@
   id: 008.1
   title: "APIAwards MVP - Clausura"
   description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: service
+  subtype: "service"
 -
   id: 001.2
   title: "KEYNOTE"
@@ -106,7 +106,7 @@
   id: 008.2
   title: "APIAwards MVP - Clausura"
   description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: service
+  subtype: "service"
 -
   id: 001.3
   title: "KEYNOTE"
@@ -158,7 +158,7 @@
   id: 008.3
   title: "APIAwards MVP - Clausura"
   description: "Presentamos al ganador/a del premio MVP APIExpert en los APIAwards 2021. ¡¡No te lo pierdas!!"
-  subtype: service
+  subtype: "service"
 -
   id: 001.4
   title:  "KEYNOTE"
@@ -205,28 +205,28 @@
   description: ""
   subtype: presentation
   speakers: [MAS]
-  subtype: Intermediate
+  complexity: "Intermediate"
 -
   id: 008.4
   title: "DEMO: KONG"
   description: ""
   subtype: presentation
   speakers: [MAS]
-  subtype: Intermediate
+  complexity: "Intermediate"
 -
   id: 009.4
   title: "DEMO: ORACLE"
   description: ""
   subtype: presentation
   speakers: [MAS]
-  subtype: Intermediate
+  complexity: "Intermediate"
 -
   id: 010.4
   title: "DEMO: WSO2"
   description: ""
   subtype: presentation
   speakers: [MAS]
-  subtype: Intermediate
+  complexity: "Intermediate"
 -
   id: 011.4
   title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
@@ -236,9 +236,8 @@
   id: 001.5
   title:  "KEYNOTE"
   description: "Introducción de las charlas + Ciclo de vida + Novedades..."
-  subtype: presentation
+  subtype: service
   speakers: [MAS]
-  complexity: "service"
 -
   id: 002.5
   title: "DEMO: MICROCKS"
@@ -278,28 +277,28 @@
   description: ""
   subtype: demo
   speakers: [MAS]
-  subtype: Intermediate
+  complexity: "Intermediate"
 -
   id: 008.5
   title: "DEMO: APICUR.IO"
   description: ""
   subtype: demo
   speakers: [MAS]
-  subtype: Intermediate
+  complexity: "Intermediate"
 -
   id: 009.5
   title: "DEMO: POSTMAN"
   description: ""
   subtype: demo
   speakers: [MAS]
-  subtype: Intermediate
+  complexity: "Intermediate"
 -
   id: 010.5
   title: "DEMO: APIGenerator"
   description: ""
   subtype: demo
   speakers: [MAS]
-  subtype: Intermediate
+  complexity: "Intermediate"
 -
   id: 011.5
   title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
@@ -311,7 +310,7 @@
   description: "Introducción de las charlas + Ciclo de vida + Novedades..."
   subtype: demo
   speakers: [MAS]
-  complexity: "service"
+  complexity: "Intermediate"
 -
   id: 002.6
   title: "TALLER: Visual DDD"
@@ -330,7 +329,7 @@
   id: 004.6
   title: "Coffee break"
   description: ""
-  complexity: "service"
+  subtype: service
 -
   id: 005.6
   title: "TALLER: Karate"
