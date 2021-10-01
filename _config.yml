@@ -42,8 +42,9 @@ c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20APIAddicts%2
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/schedule/", text: "Agenda"}
- #- {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/judges/", text: "Jurado"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}
