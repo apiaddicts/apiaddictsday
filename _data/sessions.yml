@@ -88,7 +88,7 @@
   title: "Mesa redonda de arquitectura"
   description: "Se debatirá sobre las distintas arquitecturas entorno a las APis, sobre el presente y futuro de las mismas"
   subtype: presentation
-  speakers: [OV,NM,MP]
+  speakers: [MP,OV,NM]
   complexity: "Intermediate"
 -
   id: 006.2
@@ -181,7 +181,7 @@
   title: "DEMO: AXWAY"
   description: ""
   subtype: presentation
-  speakers: [AG]
+  speakers: [DA]
   complexity: "Intermediate"
 -
   id: 004.4
