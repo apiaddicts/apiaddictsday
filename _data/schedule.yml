@@ -188,8 +188,8 @@
         sessionIds: [009.4]
     }
     - {
-        startTime: "18:45",
-        endTime: "19:15",
+        startTime: "19:15",
+        endTime: "19:45",
         sessionIds: [010.4]
     }
     - {
@@ -239,18 +239,18 @@
         sessionIds: [007.5]
     }
     - {
-        startTime: "19:45",
-        endTime: "20:00",
+        startTime: "18:15",
+        endTime: "18:45",
         sessionIds: [008.5]
     }
     - {
-        startTime: "19:45",
-        endTime: "20:00",
+        startTime: "18:45",
+        endTime: "19:15",
         sessionIds: [009.5]
     }
     - {
-        startTime: "19:45",
-        endTime: "20:00",
+        startTime: "19:15",
+        endTime: "19:45",
         sessionIds: [010.5]
     }
     - {
