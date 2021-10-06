@@ -12,7 +12,7 @@ authorLink: https://twitter.com/apiaddicts
 
 ##### Sí, has leido bien... ¡HAN LLEGADO LOS APIAwards Internacionales.  
 Este año, gracias al apoyo de nuestros patrocinadores, tenemos la oportunidad realizar la primera edición de los APIAwards.  
-Consiste en 3 concursos donde un jurado formado por profesionales de cada sector otorgarán el premio al MVP APIExpert, al Mejor Developer Portal y a la Mejor API.  
+Consiste en 2 concursos donde un jurado formado por profesionales de cada sector otorgarán el premio al MVP APIExpert y al Mejor Developer Portal. 
 ¡No pierdas la oportunidad y participa!
 
 ¡Te esperamos, APIAddict!.
@@ -21,9 +21,6 @@ Consiste en 3 concursos donde un jurado formado por profesionales de cada sector
 
 
 ###### [<b>¡Mejor Developer Portal!</b>](https://forms.gle/RNDw47Z2euidY6At6)  
-
-
-###### [<b>¡Mejor API!</b>](https://forms.gle/ceQsSaLBHWBqVGM46)  
 
 
 ##### Comparte la experiencia
