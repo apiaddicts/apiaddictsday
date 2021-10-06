@@ -2,6 +2,21 @@
 layout: default
 permalink: /
 ---
+<script src="https://www.eventbrite.es/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Pedido completo');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '164297635651',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-164297635651',
+        onOrderComplete: exampleCallback
+    });
+</script>
 
   {% include hero.html %}
 
