@@ -21,10 +21,6 @@
                 <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
             </li>
             {% endfor %}
-            <noscript><a href="https://www.eventbrite.es/e/entradas-apiaddictsdays-2021-164297635651" rel="noopener noreferrer" target="_blank"></noscript>
-                <!-- Puedes personalizar este botón como quieras -->
-                <button id="eventbrite-widget-modal-trigger-164297635651" type="button">Comprar entradas</button>
-                <noscript></a>Comprar entradas en Eventbrite</noscript>
         </ul>
         {% for rightNavigationButton in site.rightNavigationButtons %}
         <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
