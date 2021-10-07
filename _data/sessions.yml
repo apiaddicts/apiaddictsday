@@ -141,7 +141,7 @@
   title: "Mesa redonda de modelos de negocio"
   description: "Analizaremos las tendencias en los diferentes modelos de negocio"
   subtype: presentation
-  speakers: [JMF,FB, MAS]
+  speakers: [JMF,FB, MS, MAS]
   complexity: "Intermediate"
 -
   id: 006.3
