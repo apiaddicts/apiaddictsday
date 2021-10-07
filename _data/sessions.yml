@@ -215,17 +215,10 @@
   title: "DEMO: KONG"
   description: ""
   subtype: presentation
-  speakers: [MAS]
+  speakers: [OV]
   complexity: "Intermediate"
 -
   id: 009.4
-  title: "DEMO: ORACLE"
-  description: ""
-  subtype: presentation
-  speakers: [VM]
-  complexity: "Intermediate"
--
-  id: 010.4
   title: "DEMO: WSO2"
   description: ""
   subtype: presentation

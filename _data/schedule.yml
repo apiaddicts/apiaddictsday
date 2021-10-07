@@ -179,18 +179,13 @@
     }
     - {
         startTime: "18:15",
-        endTime: "18:45",
+        endTime: "19:00",
         sessionIds: [008.4]
     }
     - {
-        startTime: "18:45",
-        endTime: "19:15",
-        sessionIds: [009.4]
-    }
-    - {
-        startTime: "19:15",
+        startTime: "19:00",
         endTime: "19:45",
-        sessionIds: [010.4]
+        sessionIds: [009.4]
     }
     - {
         startTime: "19:45",
