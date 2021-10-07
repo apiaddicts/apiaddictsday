@@ -1,17 +1,6 @@
 #ribbon:
 #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
 
--
-  id: DA
-  name: "Daniel"
-  surname: "Atance"
-  company: "Axway"
-  title: "Pre-sales Consult"
-  bio: ''
-  thumbnailUrl: da.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-atance/"}
 - 
   id: RG
   name: "Rafael"
@@ -79,17 +68,6 @@
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
 -
-  id: JMF
-  name: "Juan Manuel"
-  surname: "Fernández"
-  company: "Arcopay"
-  title: "Head Of Platform"
-  bio: ''
-  thumbnailUrl: jmf.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "linkedin.com/in/juanmfarango/"}
--
   id: IM
   name: "Isabel"
   surname: "Mauny"
@@ -128,39 +106,6 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/javierlarrauri/"}
 -
-  id: FF
-  name: "Francisco de Jesús"
-  surname: "Flores Muñoz"
-  company: "CloudAPPi"
-  title: "API Expert"
-  bio: ""
-  thumbnailUrl: ff.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/francisco-de-jes%C3%BAs-flores-mu%C3%B1oz-54442667/"}
--
-  id: FJB
-  name: "Francisco Javier"
-  surname: "Barrena"
-  company: " Instituto Tecnológico de Informática"
-  title: "Software Architect & Security Advocate"
-  bio: "Arquitecto de Software y Security Advocate en el Instituto Tecnológico de Informática (ITI), con más de 10 años de experiencia en diseño e implementación de software en empresas de diferentes sectores. Francisco tiene una amplia experiencia en ecosistemas Java, Angular, Kubernetes y el stack tecnológico Big Data (Cassandra, Kafka, Spark, etc.), de hecho, ha impartido más de 60 cursos y charlas sobre estos temas en los últimos 8 años. Recientemente, Francisco está desarrollando su carrera profesional en el mundo de la seguridad informática, intentando aumentar el nivel de seguridad del software que producen las empresas, liderando técnicamente proyectos de investigación nacionales y europeos, centrados en la seguridad de los nuevos entornos cloud y la detección de amenazas e insiders usando técnicas de Inteligencia Artificial y Machine Learning. Siempre disponible para charrar en twitter como @DogDeveloper."
-  thumbnailUrl: FJB.png
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fjbarrena/"}
--
-  id: MP
-  name: "Mayra"
-  surname: "Puntillo"
-  company: "Sensedia LATAM"
-  title: "Solutions Architect"
-  bio: ''
-  thumbnailUrl: mp.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mayra-puntillo-rodriguez/"}
--
   id: RGR 
   name: "Rafael"
   surname: "Gonzalez"
@@ -172,49 +117,16 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/rafael-gonz%C3%A1lez-rodr%C3%ADguez-06498712/"}
 -
-  id: MS
-  name: "Mikel"
-  surname: "Sánchez"
-  company: "Veridas"
-  title: "CTO"
-  bio: ''
-  thumbnailUrl: ms.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mikel-s%C3%A1nchez-95247161/"}
--
-  id: CH
-  name: "Carlos"
-  surname: "Horno"
-  company: "Qonto"
+  id: BP
+  name: "Bruno"
+  surname: "Pedro"
+  company: "Postman"
   title: "Product Manager"
   bio: ''
-  thumbnailUrl: ch.jpeg
+  thumbnailUrl: bp.jpeg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/carlos-horno-santacruz/"}
--
-  id: FB
-  name: "Francisco"
-  surname: "Benedito"
-  company: "Climatetrade"
-  title: "CEO"
-  bio: ''
-  thumbnailUrl: fb.jpeg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/francisco-benedito-90bb1421/"}
--
-  id: DE
-  name: "Daniel"
-  surname: "España"
-  company: "Scorce"
-  title: "CEO & Cofunder"
-  bio: ''
-  thumbnailUrl: de.png
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-espa%C3%B1a/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bpedro/"}
 -
   id: JAF
   name: "José Ángel"
@@ -248,17 +160,6 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/luiscuellarh/"}
--
-  id: JM
-  name: "Jesús"
-  surname: "Mazón"
-  company: "Sensedia"
-  title: "Arquitecto de soluciones"
-  bio: ''
-  thumbnailUrl: jm.jpeg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jes%C3%BAs-maz%C3%B3n-27164972/"}
 -
   id: VM
   name: "Victor"
@@ -335,7 +236,7 @@
   thumbnailUrl: ig.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mauriciodelaquintana/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ivangarciasainzaja/"}
 -
   id: AP
   name: "Adrián"
@@ -347,3 +248,124 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/adrian-palanques-garcia/"}
+-
+  id: JH
+  name: "José"
+  surname: "Haro"
+  company: "microapis.io"
+  title: "CEO & Cofunder"
+  bio: ''
+  thumbnailUrl: jh.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jose-haro-peralta/"}
+-
+  id: FF
+  name: "Francisco de Jesús"
+  surname: "Flores Muñoz"
+  company: "CloudAPPi"
+  title: "API Expert"
+  bio: ""
+  thumbnailUrl: ff.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/francisco-de-jes%C3%BAs-flores-mu%C3%B1oz-54442667/"}
+-
+  id: CH
+  name: "Carlos"
+  surname: "Horno"
+  company: "Qonto"
+  title: "Product Manager"
+  bio: ''
+  thumbnailUrl: ch.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carlos-horno-santacruz/"}
+-
+  id: FJB
+  name: "Francisco Javier"
+  surname: "Barrena"
+  company: " Instituto Tecnológico de Informática"
+  title: "Software Architect & Security Advocate"
+  bio: "Arquitecto de Software y Security Advocate en el Instituto Tecnológico de Informática (ITI), con más de 10 años de experiencia en diseño e implementación de software en empresas de diferentes sectores. Francisco tiene una amplia experiencia en ecosistemas Java, Angular, Kubernetes y el stack tecnológico Big Data (Cassandra, Kafka, Spark, etc.), de hecho, ha impartido más de 60 cursos y charlas sobre estos temas en los últimos 8 años. Recientemente, Francisco está desarrollando su carrera profesional en el mundo de la seguridad informática, intentando aumentar el nivel de seguridad del software que producen las empresas, liderando técnicamente proyectos de investigación nacionales y europeos, centrados en la seguridad de los nuevos entornos cloud y la detección de amenazas e insiders usando técnicas de Inteligencia Artificial y Machine Learning. Siempre disponible para charrar en twitter como @DogDeveloper."
+  thumbnailUrl: FJB.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fjbarrena/"}
+-
+  id: MS
+  name: "Mikel"
+  surname: "Sánchez"
+  company: "Veridas"
+  title: "CTO"
+  bio: ''
+  thumbnailUrl: ms.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mikel-s%C3%A1nchez-95247161/"}
+-
+  id: DA
+  name: "Daniel"
+  surname: "Atance"
+  company: "Axway"
+  title: "Pre-sales Consult"
+  bio: ''
+  thumbnailUrl: da.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-atance/"}
+-
+  id: JMF
+  name: "Juan Manuel"
+  surname: "Fernández"
+  company: "Arcopay"
+  title: "Head Of Platform"
+  bio: ''
+  thumbnailUrl: jmf.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "linkedin.com/in/juanmfarango/"}
+-
+  id: JM
+  name: "Jesús"
+  surname: "Mazón"
+  company: "Sensedia"
+  title: "Arquitecto de soluciones"
+  bio: ''
+  thumbnailUrl: jm.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jes%C3%BAs-maz%C3%B3n-27164972/"}
+-
+  id: FB
+  name: "Francisco"
+  surname: "Benedito"
+  company: "Climatetrade"
+  title: "CEO"
+  bio: ''
+  thumbnailUrl: fb.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/francisco-benedito-90bb1421/"}
+-
+  id: DE
+  name: "Daniel"
+  surname: "España"
+  company: "Scorce"
+  title: "CEO & Cofunder"
+  bio: ''
+  thumbnailUrl: de.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniel-espa%C3%B1a/"}
+-
+  id: MP
+  name: "Mayra"
+  surname: "Puntillo"
+  company: "Sensedia LATAM"
+  title: "Solutions Architect"
+  bio: ''
+  thumbnailUrl: mp.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mayra-puntillo-rodriguez/"}

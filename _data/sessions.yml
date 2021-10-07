@@ -233,7 +233,7 @@
   complexity: "Intermediate"
 -
   id: 011.4
-  title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
+  title: "APIAwards Best Developer Portal 2021 - Clausura"
   description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
   subtype: presentation
 -
@@ -295,18 +295,18 @@
   title: "DEMO: POSTMAN"
   description: ""
   subtype: presentation
-  speakers: [MAS]
+  speakers: [BP]
   complexity: "Intermediate"
 -
   id: 010.5
-  title: "DEMO: APIGenerator"
+  title: "DEMO: microapis.io"
   description: ""
   subtype: presentation
-  speakers: [FF]
+  speakers: [JH]
   complexity: "Intermediate"
 -
   id: 011.5
-  title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
+  title: "APIAwards Best Developer Portal 2021 - Clausura"
   description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
   subtype: presentation
 -
@@ -351,6 +351,6 @@
   complexity: "Intermediate"
 -
   id: 007.6
-  title: "APIAwards Excepcional API && Best Developer Portal 2021 - Clausura"
+  title: "APIAwards Best Developer Portal 2021 - Clausura"
   description: "Presentamos al ganador/a del premio Excepcional API && Best Developer Portal 2021 en los APIAwards 2021. ¡¡No te lo pierdas!!"
   subtype: presentation
