@@ -13,17 +13,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/rafagranados/"}
 -
-  id: BG
-  name: "Benjamin"
-  surname: "Granados"
-  company: "Banco Santander"
-  title: "Community & API Strategist"
-  bio: ''
-  thumbnailUrl: bg.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/benjagranados/"}
--
   id: NM
   name: "Noelia"
   surname: "Martin Hernández"
@@ -78,6 +67,17 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/isamauny/"}
+-
+  id: BG
+  name: "Benjamin"
+  surname: "Granados"
+  company: "Banco Santander"
+  title: "Community & API Strategist"
+  bio: ''
+  thumbnailUrl: bg.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/benjagranados/"}
 -
   id: RC
   name: "Roger"
